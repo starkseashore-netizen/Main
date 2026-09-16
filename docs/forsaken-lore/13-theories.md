@@ -101,7 +101,7 @@ What survives, and is still the best thing in Forsaken's worldbuilding, is the *
 
 What does *not* survive is treating "it's just corrupted code" as a settled explanation. The wiki has deliberately left room for The Spectre to be something the servers **caught** rather than something they **produced**.
 
-**On the timeline:** Tyler's torment predates the current cast by **at least 200 years**, which sits awkwardly beside an origin in Roblox HQ's servers. With the origin now explicitly unknown, this is less of a contradiction than it looked — if The Spectre predates HQ, the servers were where it **arrived**, not where it was born.
+**On the timeline:** an earlier version of this entry argued that "Tyler's torment predates the current cast by at least 200 years" sat awkwardly beside an HQ origin. **That argument is withdrawn — the Tyler material is non-canon.** There is no established date for the Realm's beginning to reason from.
 
 ---
 
@@ -359,41 +359,18 @@ Note also the symbol: it appears on **Phosphorus, Azure and Nosferatu**. That is
 
 ---
 
-## Theory 10 — Tyler is still out there
+## Theory 10 — ⛔ WITHDRAWN: "Tyler is still out there"
 
-**Rating: ★★☆☆☆ Weak, but the payoff would be enormous**
+**Rating: N/A — the premise is non-canon**
 
-### The claim
+This slot previously held a ★★☆☆☆ theory arguing that **Tyler** — "The Spectre's first victim," made formless and forced to watch — still exists and would matter later. It cited his formlessness, his 200 years of observation, and the fact that he **named** The Spectre as setup too deliberate to be accidental.
 
-Tyler — The Spectre's first victim, made formless and forced to watch — still exists, and will matter.
+**The whole premise is non-canon.** The Tyler story, including the claim that he and **Slasher** were the first taken, is **non-canon ARG material and is labelled as such.** There is no canonical first victim named Tyler to still be out there.
 
-### The evidence for
+This is worth leaving visible rather than deleting, for two reasons:
 
-| Evidence | Source |
-|:--|:--|
-| Tyler is canon, is the **first victim**, and **named The Spectre** | **[CANON]** |
-| He was made **formless, exactly like The Spectre itself** | **[CANON]** |
-| He was made to **observe everything that happens** — meaning he is a **witness to the entire history of the Realm** | **[CANON]** |
-| **Naming something** is a position of power in most fiction, and the wiki makes a point of it | — |
-| TV Tropes' WMG records theories that he is still present, and even that Elliot is his messenger | **[THEORY]** |
-
-### The evidence against
-
-| Counter-evidence |
-|:--|
-| **[THEORY]** The WMG page also holds that The Spectre eventually **cast him into a void to cease existing** after ~200 years — which would close the thread entirely. |
-| He has no in-game presence at all: no skin, no NPC, no voiceline. |
-
-### Assessment
-
-**Currently just a name in a backstory.** But look at what canon actually gives him:
-
-- He is **formless, like The Spectre** — the only other entity in that category.
-- He has **watched everything** since the beginning.
-- He **named** the thing that did it to him.
-- He **beat it once already** by going numb, which is the only documented instance of anyone frustrating The Spectre.
-
-That is a *lot* of setup for a character who exists in two paragraphs. Whether the payoff ever comes is anyone's guess — but if Forsaken ever wants a way out for its cast, the prisoner who stopped being afraid and gave the monster its name is the most thematically correct answer available.
+1. **You will meet this theory constantly.** It circulates widely, and the underlying story is good enough that people repeat it in good faith. Knowing it is non-canon saves an argument.
+2. **It shows how the error propagated.** A non-canon detail, tagged canon, became evidence for a theory, which then reinforced the detail's apparent standing. That is the mechanism that produced most of the mistakes in the first version of this compendium — see [`14-retcons-and-lore-currency.md`](14-retcons-and-lore-currency.md).
 
 ---
 

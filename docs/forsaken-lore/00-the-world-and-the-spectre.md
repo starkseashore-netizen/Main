@@ -43,18 +43,9 @@ The antagonist behind everything. Not a Killer you play against — the **game m
 > **[CANON]** "The Spectre is a being made out of code, which seeks to obtain more power no matter the cost... a malicious omnipresent force able to shape the world, take people, and create or reshape anything to how it desires."
 > — [Official Forsaken Wiki, *The Spectre*](https://forsaken.wiki/The_Spectre)
 
-### ⚠️ Its origin is explicitly unknown
+### ⚠️ Origin — see the gap notice below
 
-This is the single most important thing to get right about The Spectre, and the first version of this document got it wrong.
-
-> **[CANON]** "**Where The Spectre came from, or how it came into existence is currently unknown**, however, there has been countless information shared about it through **an ARG hosted by the Forsaken developers** when the game first released."
-
-So the two facts sit side by side and **do not** cancel each other:
-
-- **It first surfaced** as the corruption inside Roblox HQ's servers, as an **"alive coding error"** — that is *where it appeared*.
-- **What it fundamentally is, and how it became conscious, is a stated mystery** — the wiki declines to explain it.
-
-An earlier draft of this compendium treated the HQ corruption as a complete origin story and built a thesis on it ("the apocalypse is Builderman's fault"). That overreads the source. Builderman's denial is why it **grew unchecked**. It is not why it **exists**.
+This document has stated The Spectre's origin **two different ways and been wrong both times.** Rather than offer a third version, the current state is recorded as an open gap. **See "The current canon origin is NOT documented here" further down this section before relying on anything here about where The Spectre came from.**
 
 ### What it looks like
 
@@ -69,7 +60,7 @@ Key established properties:
 | Property | Detail |
 |:--|:--|
 | **Substance** | Made out of **code**. An "alive coding error." |
-| **Origin** | **Unknown.** First surfaced in Roblox HQ's servers; what it is and how it became conscious is unexplained. |
+| **Origin** | ⚠️ **Not documented here.** Two previous accounts in this file were wrong; the current canon has not been captured. See the gap notice below. |
 | **Form** | **None — it is incomprehensible.** Its presence shows as the **sky turning nightmarish red and black.** |
 | **Domain** | Total authority over the Realm's geometry, contents, and inhabitants. |
 | **Power source** | Torment. It grew more powerful by tormenting individuals, and **feeds off** low moments, high emotions and fear. |
@@ -85,27 +76,31 @@ Power. That is the whole of it. It is not avenging anything, it has no ideology,
 > **[CANON]** "The Spectre enjoys the suffering of others."
 > — [Official Forsaken Wiki, *The Spectre*](https://forsaken.wiki/The_Spectre)
 
-### Tyler — the first victim, and the one who named it
+### ⛔ Tyler, Slasher and David — NOT CANON
 
-The oldest known piece of the Realm's history, and the most disturbing.
+**Everything this compendium previously said about Tyler is non-canon, and has been removed.**
 
-**Tyler** was The Spectre's **first victim**. He was put up against **Jason** in a primitive prototype of what would eventually become the Forsaken game loop, and was hunted down and torn apart — repeatedly.
+Earlier versions of this page opened the Realm's history with a confident, heavily-quoted account of **Tyler**, "The Spectre's first victim," pitted against **Jason** in a prototype of the game, growing numb to the pain, being stripped of physical form, and giving The Spectre its name — plus **David**, the ARG victim "far too young to be sentenced to a painful eternity." I tagged all of it **[CANON]** and built the Realm's timeline on it.
 
-Then Tyler did something The Spectre had not accounted for: **he got used to it.** He grew numb to the pain. And because The Spectre's entire food supply is suffering, a victim who has stopped suffering is worse than useless.
+**It is not canon.** The Tyler material — and the premise that he and Slasher were the first taken — is **non-canon ARG content and is labelled as such.** It should not be cited as lore.
 
-So it punished him by taking his body away — making him formless, exactly like itself — and forced him to **watch everything that happened afterward**, forever.
+Three separate things were wrong with how it was presented here:
 
-It was Tyler who gave the entity the name **"The Spectre."**
+1. **It was non-canon**, presented as canon.
+2. **"Jason" is not the character.** Jason was **removed in update 3.1.0** and replaced by **Slasher**, an original redesign, over **copyright concerns** with *Friday the 13th*. So the version I wrote was doubly outdated.
+3. **It anchored the timeline.** The "at least 200 years since Tyler's story" figure was load-bearing for the chronology in §8 and for Theory 2's timeline discussion. Both have been corrected.
 
-> **[CANON / WMG extension]** The wiki records Tyler's numbness and his formlessness; TV Tropes' WMG page records the further claim that after roughly 200 years The Spectre eventually cast Tyler into a void to cease existing. Treat the 200-year void ending as **[THEORY]** unless you can confirm it on the wiki directly.
+If you encounter the Tyler story in a lore video or a fan summary — and you will, constantly, because it is a genuinely good piece of writing — that is where it comes from and that is its status.
 
-### David — the ARG victim
+### ⚠️ The current canon origin is NOT documented here
 
-The other named early victim, surfaced through Forsaken's **ARG** material rather than the main wiki narrative.
+This is a **known gap**, stated plainly rather than filled with another guess.
 
-> **[CANON — ARG]** David was described as *"far too young to be sentenced to a painful eternity"* — and The Spectre tortured him anyway, because all it wanted was more power.
+The first version of this page claimed The Spectre **originated** as corruption in Roblox HQ's servers and built a thesis on it. The second version softened that to "it surfaced there, origin unknown," citing the wiki's own *"where The Spectre came from... is currently unknown."*
 
-David exists in the lore for exactly one reason: to establish that The Spectre has **no floor**. There is no category of victim it considers off-limits. Everything else in Forsaken's cruelty reads differently once you know it took a child and did not hesitate.
+**Both were wrong**, and there is a current canon account of The Spectre that this compendium has not captured. I was unable to reach it: `forsaken.wiki` is blocked by network policy in the environment where this was written, and search extraction has now failed on this specific question three times running — which is precisely how the earlier errors happened.
+
+**Treat every statement about The Spectre's origin in this compendium as unverified until this section is filled in from the live wiki.** What follows in §3 is documented as *the HQ corruption sequence* — those individual events (Jane Doe's bug reports, Builderman's denial, the admin abductions) are separately sourced and appear to hold — but the connective claim that this sequence **is** The Spectre's origin is exactly what is in doubt.
 
 ---
 
@@ -330,14 +325,14 @@ Approximate and partly conjectural, since the wiki gives few hard dates.
 | **Golden age** | *Sword Fights on the Heights* flourishes. Telamon becomes a legend. Shedletsky marries BrightEyes. HQ runs: Builderman, Shedletsky, Dusekkar, Doombringer, John & Jane Doe. |
 | **The Telamon incident** | Telamon's ego peaks. An unknown "utterly selfish and deplorable act," plus Necrobloxicon exposure, splits his hatred off as **1x1x1x1**. |
 | **The corruption** | The Spectre forms in HQ's servers. Jane Doe and other testers report it. Builderman denies it. |
-| **Tyler** | The Spectre's first victim, vs. Jason, in a prototype Realm. **At least 200 years before the present cast.** |
+| ~~**Tyler**~~ | **Removed — non-canon.** The Tyler / first-victim story and the "at least 200 years" figure were non-canon ARG material and are no longer part of this timeline. |
 | **The admin abductions** | The Spectre takes admins and locations one by one. The Admins fall. |
 | **The Bacon War** | Bacon Empire declares war on Guests. Guest 1337 fights. The Bacon General dies. Guest 1337 dies with him. |
 | **The unmoderated era** | With admins gone, Taph begins demolishing unmoderated experiences. Exploiters run unchecked. |
 | **The disappearances** | c00lkidd vanishes. John Doe vanishes. The March 18th rumours spread. |
 | **The present** | Twelve Survivors, an expanding Killer roster, endless rounds. |
 
-> **Note on Tyler's 200 years.** The wiki says it was *"at least 200 years since Tyler's story"* when the rest of the cast arrived. That is a very long time for an entity that started as a server bug — and it implies the Realm predates most of the events above by centuries, which does not sit comfortably alongside The Spectre originating at Roblox HQ. This is an open inconsistency in the lore, not a solved puzzle.
+> **Note.** An earlier version of this table opened with Tyler and dated the Realm to "at least 200 years" before the present cast. That was **non-canon ARG material** and has been removed. The chronology below the removed row is assembled from individually-sourced events, but it **no longer has a fixed starting point**, and the Realm's age is unknown here.
 
 ---
 
@@ -352,7 +347,7 @@ So Forsaken's lore lives across five channels:
 
 1. **Developer statements** — Discord, X. The primary source. Also the least archived.
 2. **Jane Doe's document quests** — the main in-game delivery mechanism. Three quests: *"Aim for the Top"* (Shedletsky's document), *"Once Was No Longer Is"* (Dusekkar's), *"Fundamental Principle of Inertia"* (Builderman's).
-3. **The ARG** — source for Tyler, David, and the encoded Guest 666 letters.
+3. **The ARG** — ⚠️ **Not straightforwardly canon.** The Tyler and David material from the launch ARG is **non-canon**. Treat ARG content as flavour unless a current wiki page repeats it. (The encoded Guest 666 letters sourced here are likewise unverified.)
 4. **Skins, milestones and voicelines** — mostly "what-if," occasionally canon.
 5. **Lobby NPCs and environmental detail** — the corkboard, Helperbot, the scrapyard.
 

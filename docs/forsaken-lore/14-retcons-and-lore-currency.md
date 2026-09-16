@@ -78,6 +78,41 @@ The Spectre section was the worst part of the first draft, because everything el
 
 ---
 
+## 3c. ⛔ The Tyler story is non-canon — and the Spectre's origin is still an open gap
+
+**Third correction pass, and the most damaging one.**
+
+### The Tyler material is not canon
+
+The **Tyler** story — The Spectre's "first victim," pitted against **Jason/Slasher** in a prototype of the game, growing numb, stripped of physical form, giving The Spectre its name — plus **David**, the ARG victim "far too young to be sentenced to a painful eternity":
+
+**All of it is non-canon ARG material, and the wiki labels it as such.** The premise that Tyler and Slasher were the first taken is not lore.
+
+This compendium tagged it **[CANON]**, opened the Realm's history with it, anchored the timeline to its "at least 200 years," and built **Theory 10** on top of it. All of that has been removed or withdrawn.
+
+Two compounding errors in the same passage:
+
+- **"Jason" isn't the character anyway.** Jason was **removed in update 3.1.0** and replaced by **Slasher**, an original redesign, over **copyright concerns** with *Friday the 13th*.
+- **The ARG is not a canon source.** `SOURCES.md` previously described it as "canon, but scattered." That framing is what let the Tyler material in.
+
+### The current canon origin of The Spectre is still missing
+
+Three versions of the origin have now appeared in this compendium:
+
+| Version | Claim | Status |
+|:--|:--|:--|
+| 1st | The Spectre **originated** as corruption in Roblox HQ's servers; "the apocalypse is Builderman's fault" | **Wrong** |
+| 2nd | It **surfaced** there; origin "currently unknown" per the wiki | **Wrong** |
+| 3rd | — | **Not attempted.** |
+
+There is a current canon account of The Spectre that this compendium **has not captured**, and rather than guess a third time, the gap is now marked explicitly in [`00-the-world-and-the-spectre.md`](00-the-world-and-the-spectre.md).
+
+**Why it keeps failing:** `forsaken.wiki` is blocked by network policy in this environment, so every Spectre claim here came from search extraction — which returns text with no indication of whether it sat under a non-canon or outdated banner. On this specific question that method has now produced a wrong answer three times running. It is not a method that can resolve this, and continuing to use it would just produce a fourth wrong answer.
+
+**This section will stay open until the current canon is supplied from the live wiki.**
+
+---
+
 ## 4. Current lore this compendium originally missed
 
 | Current lore | Where it now appears |

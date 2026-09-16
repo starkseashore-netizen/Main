@@ -46,7 +46,11 @@ Jane Doe's document quests, Lobby NPC dialogue, the corkboard, achievement names
 
 ### The ARG
 
-Source for **Tyler**, **David**, and the encoded **Guest 666** letters. Canon, but scattered and community-decoded.
+⚠️ **Not straightforwardly canon — do not treat ARG content as lore.**
+
+The launch ARG is where the **Tyler** and **David** material comes from, and that material is **non-canon and labelled as such**. An earlier version of this page called the ARG "canon, but scattered," which was wrong and directly caused several errors in this compendium.
+
+Treat ARG content as flavour unless a current wiki page repeats it outside an outdated banner. The encoded **Guest 666** letters come from the same place and carry the same caveat.
 
 ---
 
