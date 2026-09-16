@@ -103,6 +103,29 @@ This is the origin story of everything, and it is a story about **institutional 
 > **[CANON]** "As the testers told Builderman about the issues, he shrugged them off, saying the Admins had it under control, all despite everyone working there seeing the large cracks."
 > — [Official Forsaken Wiki, *Builderman*](https://forsaken.wiki/Builderman)
 
+### The parasite, and what happened to John Doe
+
+The corruption did not only become The Spectre. It also became **a parasite**, and the parasite took a person — which is the single most concrete thing the lore shows you about what that faulty code actually does.
+
+**John Doe** worked a desk job at Roblox HQ. His job was **looking for faulty code**.
+
+> **[CANON]** "Something was brewing in the old code — it had turned into **a parasite that was looking for a host**. John would be **leeched onto by the code**, with a **black substance growing on his body**. It would **tear his spine out of the back of his torso**, with **the corruption of the code keeping him undead**."
+> — [Official Forsaken Wiki, *John Doe*](https://forsaken.wiki/John_Doe)
+
+This is why Jane Doe, describing him, calls him **"John, the one with the overgrown arm."** That is what the parasite left.
+
+And the black substance is the same thing that **grew around Jane and John's house** — the growth that got her mocked as "mold girl." The corruption followed the host home.
+
+### Roblox HQ today
+
+> **[CANON]** Roblox HQ "is now shown to be **completely destroyed**, being **overtaken by the parasite that infected John Doe**." It also shows that **they had been studying the parasite.**
+> — [Official Forsaken Wiki, *Roblox HQ*](https://forsaken.wiki/Roblox_HQ)
+
+Two things worth sitting with:
+
+1. **The building is gone**, consumed by the same growth that ate John.
+2. **They were studying it.** Somebody at HQ was running research on the parasite — which sits very badly next to Builderman insisting to his staff that the Admins had it under control. Either the research was happening without him, or "under control" meant "we have a team on it," and it was not enough.
+
 ### Why this matters to the survivor roster
 
 Because it makes the entire cast's suffering **traceable to a management failure**, and it puts the man responsible in the same rounds as his victims, with a healing kit and a guilt complex. Builderman is a Support class because he is trying to pay something back.

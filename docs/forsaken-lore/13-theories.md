@@ -112,7 +112,8 @@ Every character bearing the **Phosphorus symbol** in their design represents one
 
 Supporting facts:
 
-- **Phosphorus is canon** and is canonically an agent of The Spectre.
+- **Phosphorus is canon** and is canonically an agent of The Spectre — though note his entry sits on the **Potential characters** page, which the wiki **flags as outdated** and tells readers to take with a grain of salt. He is a **planned** Killer, not a released one.
+- The symbol is documented as appearing on **Phosphorus, Azure and Nosferatu** specifically.
 - **The symbol genuinely recurs** across character designs — that part is observable, not invented.
 - **Guest 666 = Envy is airtight.** Her entire canon backstory is envy, start to finish.
 - **"Azurewrath"** is a real weapon name (Diablo II), so the wrath reading is baked into the name itself.
@@ -312,33 +313,35 @@ Given the documented history — a writer who acknowledged projecting personally
 
 ---
 
-## Theory 9 — The unnamed agent at Two Time's murder is a major future antagonist
+## Theory 9 — The agent at Two Time's murder is Phosphorus
 
-**Rating: ★★★★☆ Strong**
+**Rating: ★★★★★ Effectively stated — this is documented, not theorised**
 
-### The claim
+> **Correction.** An earlier version of this file rated this ★★★★☆ and called it "the best-supported open thread in Forsaken," treating the killer of Investigative Iris as a deliberately-withheld mystery. **That was wrong — the wiki names him.** I had found the pieces on separate pages and failed to put them together.
 
-The unidentified individual who killed **Investigative Iris** and transformed Aspen into **Azure** is a deliberately-withheld character who will matter later.
+### What the pages actually say
 
-### The evidence
+The **Two Time** and **Azure** pages describe "an unknown individual" who threw Iris off the cliffside, and say that same individual transformed Aspen into **Azure**, a rotted corpse puppeteered by a hat The Spectre controls.
 
-| Evidence | Source |
-|:--|:--|
-| The wiki explicitly describes "**an unknown individual**" throwing Iris off the cliffside | **[CANON]** |
-| **The same individual** transformed Aspen into Azure | **[CANON]** |
-| The transformation used **a hat controlled by The Spectre** — so this person had **Spectre equipment in hand, at the scene** | **[CANON]** |
-| "**What happened to Two Time and Azure in this moment is unknown**" — the wiki explicitly flags a blank | **[CANON]** |
-| **Phosphorus** exists as a canonical "**direct agent of The Spectre**" | **[CANON]** |
+The **Phosphorus** entry closes the loop:
+
+> **[CANON — on a page flagged outdated]** **Phosphorus** is a Killer **planned** for Forsaken and **an agent of The Spectre**. Very little is known about him. His design carries **a symbol also present on both Azure and Nosferatu**, and **Phosphorus was responsible for Investigative Iris's death during her investigation into the Spawn Cult**, leading to her being Forsaken.
+
+### The caveats that keep this from being flatly settled
+
+1. **Phosphorus is a *planned* Killer**, not a released one.
+2. The entry sits on the **Potential characters** page, which the wiki **explicitly flags as outdated**, noting it came from a dev team member, that the story "has changed many times," and to take it **with a grain of salt**.
+3. The two accounts are **not identical in scope.** Two Time's page credits the individual with **both** Iris's death **and** Aspen's transformation into Azure. The Phosphorus entry credits him only with **Iris's death**. The **shared symbol on Azure's design** is what ties him to the second half.
 
 ### Assessment
 
-**This is the best-supported open thread in Forsaken**, and it barely counts as a theory — the wiki is openly pointing at a hole.
+**The identity is documented; the reliability of the document is the open question**, which is a very different thing from a mystery.
 
-Somebody was physically present at Two Time's murder, murdered a witness to conceal it, and had the tools to reanimate a corpse as a Killer. That is an operative, working on The Spectre's behalf, **in the field**.
+What it implies is still the important part: The Spectre **does not only collect victims — it dispatches agents into the world**. Phosphorus was at the Spawn Cult, in the field, killing a witness to an investigation.
 
-**The obvious candidate is Phosphorus**, who is already established as exactly that. If so, it means The Spectre **does not just collect victims — it manufactures them**, dispatching agents to engineer the deaths it wants.
+Which reframes Two Time's entire story. A cult whose doctrine specified a murder in a particular nightshade field, an elder who intervened at exactly the moment they tried to leave, and an operative standing by to silence the witness and collect the body. The question stops being *why did Two Time do it* and becomes **how much of it was arranged around them.**
 
-Which retroactively makes Two Time's whole story much worse: a cult whose doctrine specified a murder in a particular flower field, an elder who intervened at precisely the right moment, and a cleanup crew waiting. The question stops being *why did Two Time do it* and becomes **how much of it was arranged.**
+Note also the symbol: it appears on **Phosphorus, Azure and Nosferatu**. That is the same marking the Seven Deadly Sins theory (Theory 3) is built on — so these two theories are reading the same evidence, and a resolution to one moves the other.
 
 ---
 

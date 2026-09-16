@@ -32,6 +32,8 @@ Based on the **Ms. Tee Vee** Roblox accessory — which is why she has a televis
 
 **[SECONDARY]** TV Tropes notes the practical consequence: because of the asset she's based on, Veeronica is **a full robot — unable to eat, only able to charge herself.** In a game where Noob's entire kit is snacks, Veeronica **physically cannot use food.** She heals off a **Battery.**
 
+> **[CANON — development]** Veeronica was created by **Mas / Mausalia**, who originally intended her to be a **news reporter** (in the vein of the character Reporter). She was **changed to a skateboard enthusiast** later. Worth knowing because the TV-for-a-head design reads very differently once you know it was built for a broadcaster — and because her support ability is still called **Broadcast**.
+
 ---
 
 ## 2. Life before the Realm

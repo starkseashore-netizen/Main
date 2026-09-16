@@ -45,12 +45,19 @@ You cannot understand Two Time without understanding what they were raised insid
 
 ### What it claims to be
 
-> **[CANON]** "The **Family Home for the Reborn**, also known commonly as the **Spawn Cult**, is a religion inside of the world of Forsaken, led by **Elder Amarah**. The cult would host sermons for **'The Spawn'**, a **fake son of 2x2**, who is an **actual god** responsible for the creation of the world."
+> **[CANON]** "The **Family Home for the Reborn**, also known commonly as the **Spawn Cult**, is a religion inside of the world of Forsaken, led by **Elder Amarah**. The cult would host sermons for **'The Spawn'**, a **fake son of 2x2**."
 
-The theology is a forgery built on a real foundation:
+The theology is a forgery built on a real foundation. And it is worth getting the foundation right, because **2x2 was itself rewritten** at some point — the Construction Worker NPC's old dialogue, in which 2x2 ordered him to build a fence to keep "evil monsters" out, was **removed because of that rewrite**.
 
-- **2x2 is real.** A genuine god, responsible for creating the world.
-- **"The Spawn" is not.** A fabricated son, invented by the cult.
+Here is the current version:
+
+> **[CANON — current]** **2x2** is a **2 stud by 2 stud black brick** that came into existence **long before anything**. It **created Robloxians**, giving them the ability to **build and create as they please** — and Robloxians came to see 2x2 as a **deity** because of it, considering it sacred.
+
+So:
+
+- **2x2 is real**, and is the origin of Robloxians and of the ability to build. It is a **brick**, not a figure — which is a far better piece of worldbuilding than a generic creator god, and is the detail most summaries drop.
+- **"The Spawn" is not real.** A fabricated child of 2x2, invented by the cult.
+- **[CANON]** The cult's ideology "speaks of **renewal after death** — how The Spawn, a child of 2x2, will **guide them through this life, and the next**."
 
 That's what makes it work. Members aren't believing in nothing — they're believing in a **counterfeit heir to a genuine throne**.
 
@@ -143,6 +150,21 @@ A **third party** was present. Someone who:
 
 That is an **agent of The Spectre, physically present at the murder.** Not observing from outside — *there*, cleaning up and harvesting.
 
+### The agent has a name
+
+The Two Time and Azure pages say "an unknown individual." **Another page names him.**
+
+> **[CANON — flagged outdated]** **Phosphorus** is a Killer **planned** for Forsaken and **an agent of The Spectre**. Very little is known about him. His design carries a **symbol also present on both Azure and Nosferatu**, and **Phosphorus was responsible for Investigative Iris's death during her investigation into the Spawn Cult**, leading to her being Forsaken.
+
+Two cautions, both important:
+
+1. **Phosphorus is a *planned* character, not a released one.**
+2. The page carrying this — *Potential characters* — is **explicitly flagged outdated by the wiki**, with a note that it came from a dev team member, that the story "has changed many times," and to take everything on it **with a grain of salt**.
+
+So: the identity of the person at the murder is **named in current documentation but on a page the wiki itself will not stand behind**. Treat "Phosphorus killed Iris" as strongly indicated rather than locked.
+
+Note also that this is a slightly *different* claim from the Two Time page's. Two Time's page says the individual who killed Iris **also transformed Aspen into Azure**; the Phosphorus entry only credits him with **Iris's death**. The shared symbol on Azure's design is the thread tying them together.
+
 Which raises the real question: **was any of this Two Time's idea?** A cult whose doctrine prescribes murder in a specific flower field, an elder who turns them at the exact moment they try to leave, and an operative standing by to collect the body. The wiki says what happened to Two Time in that moment is **unknown**. That gap is deliberate.
 
 ---
@@ -178,13 +200,23 @@ The cruellest arrangement in Forsaken.
 
 And then:
 
-> **[SECONDARY]** "It is **canon that Azure wants to forgive Two Time** — **but the Spectre does not allow him to.**"
+> ### ⚠️ Correction — a widely-repeated claim that is **retconned**
+>
+> You will see it said everywhere, including in an earlier version of this document, that **"it is canon that Azure wants to forgive Two Time, but The Spectre does not allow him to."**
+>
+> **That is old lore.** The Official Forsaken Wiki records that Azure was **originally** meant to still hold love for Two Time after death, and that this was **retconned during Azure's development**.
+>
+> **[CANON — current]** Azure and Two Time's relationship after death is **up to interpretation**. The game does not currently state that he wants to forgive them, and it does not state that he doesn't.
 
-Read that one more time.
+So the honest position on the two of them now is: **we don't know what's left in there.**
 
-He **wants to forgive them.** After being lied to, murdered in a flower field by the person he loved, and reanimated as a puppet — **he still wants to forgive them.** And The Spectre, which is wearing him like a glove, **will not permit it**, because reconciliation would end the suffering it feeds on.
+That is arguably a better piece of writing than the retconned version. The old lore handed you the tragedy pre-solved — he forgives, the monster forbids it, cry. What replaced it is colder and more uncomfortable: Two Time has to face him every round with **no idea** whether anything of Aspen survives, whether he hates them, or whether the thing in the hat is all that's left.
 
-The Spectre is not making Azure hunt Two Time out of rage. **It is overriding forgiveness that is already there.** Every round they meet, Two Time faces someone who has already pardoned them and cannot say so.
+What **is** canon is the mechanism:
+
+> **[CANON]** After his death, Azure was **recruited by The Spectre and preyed on for his negative emotions**, and is **now controlled by his hat**, turning into a monster.
+
+So the rage that drives him in a round is, at minimum, **cultivated** — The Spectre is farming his negative emotions deliberately. Whether there is anything underneath it that still loves them is exactly the question the current lore refuses to answer.
 
 **[THEORY]** The Seven Deadly Sins reading assigns **Azure** — full name given as **Azurewrath** — the sin of **Wrath**, "with his hatred for Two Time clouding his proper judgement." Note the friction: the wrath is The Spectre's imposition, not Azure's own state. See [`13-theories.md`](13-theories.md), Theory 3.
 
@@ -251,7 +283,7 @@ Two Time is unusual in having **canon skins at all**. Most survivors' milestones
 >
 > Both of them ended up here.
 >
-> He is a Killer now, a corpse worn like a puppet, kept angry by the thing inside him. And underneath that, he **wants to forgive them** — he has wanted to for a long time — and the thing wearing him will not let him say it.
+> He is a Killer now, a corpse worn like a puppet, kept angry by a thing that is deliberately farming him for it. Whether there is anything left underneath — whether Aspen is in there, whether he hates them, whether he ever wanted to forgive them — is not something anyone can tell you. The record used to say he did. The record changed its mind and went quiet.
 >
 > And they are a Survivor, with a dagger and a manic smile, stabbing things in the back to fill an offering bar so they can come back to life.
 >
@@ -269,7 +301,7 @@ Two Time is unusual in having **canon skins at all**. Most survivors' milestones
 4. **What did Amarah say?** The exact manipulation that flipped them is unrecorded — and is arguably the true moral crux of the character.
 5. **What became of the cult?** Elder Amarah's fate is undocumented.
 6. **How much survives the rewrite?** Two Time is the most actively revised character in Forsaken.
-7. **Will Azure ever get to forgive them?** That is, presumably, the endgame — and the reason The Spectre will never allow it.
+7. **Is any of Aspen left in Azure?** The "he wants to forgive them" answer was **retconned**; the current position is that their relationship is up to interpretation. This is now an open question rather than a settled tragedy.
 
 ---
 

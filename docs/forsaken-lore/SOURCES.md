@@ -13,6 +13,8 @@
 The game's official wiki. Detailed, actively maintained, and the source of nearly every **[CANON]** tag in these documents.
 
 **Caveats:**
+- **It carries outdated material alongside current material.** The wiki marks unreliable sections with an **outdated** banner, but search engines and extraction tools **do not preserve that banner** — snippets from a flagged section look identical to snippets from a current one. This is the single biggest hazard when researching Forsaken without opening pages directly, and it is what went wrong in the first version of this compendium. See [`14-retcons-and-lore-currency.md`](14-retcons-and-lore-currency.md).
+- **Pages known to carry outdated flags:** *Potential characters* (which is where **Phosphorus** lives), *Scrapped characters*, *The Ringmaster*, and **007n7's origins section**.
 - It changes frequently as lore is written and rewritten.
 - **Editorial inconsistency is visible** — most obviously in pronoun usage, where the same character is "he," "she," and "they" in consecutive sentences. Treat the *facts* as reliable and the *prose* as multi-author.
 - Some phrasing is garbled (Veeronica's guilt sentence is a good example) and requires reading in context.

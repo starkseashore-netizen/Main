@@ -95,6 +95,16 @@ So, in order:
 
 She lost her husband, was blamed for it by strangers, and was mocked for the evidence of the thing that took him.
 
+And the cruellest part, which the first version of this document missed:
+
+> **[CANON]** **Jane blames herself for the faulty coding that took over John Doe.** Both of them worked on faulty code — Jane on focus missions.
+
+So the strangers calling her responsible were not telling her anything she hadn't already decided. **She agrees with them.** She filed the report, she was ignored, and she has concluded that the thing she failed to get fixed is the thing that ate her husband.
+
+That is the guilt The Spectre selected her for — and it means her contempt for the admins is not only anger at them. It is anger at the people who made her share the blame for something she tried to stop.
+
+The black substance around the house was **the parasite itself**: the same corruption that leeched onto John, grew over his body, and tore his spine out of his back. It followed him home. She lived in it. See [`00-the-world-and-the-spectre.md`](00-the-world-and-the-spectre.md).
+
 > **[CANON]** Her Level 100 achievement is named **"Mold Girl."**
 
 The game turned the slur into a trophy. Read that as reclamation or as one more indignity — both readings work.

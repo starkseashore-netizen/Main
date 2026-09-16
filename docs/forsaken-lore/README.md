@@ -16,11 +16,11 @@ Forsaken has one of the largest headcanon/fanwork ecosystems on Roblox. A huge a
 
 | Tag | Meaning |
 |:--|:--|
-| **[CANON]** | Stated on the Official Forsaken Wiki (`forsaken.wiki`) or shown in-game. |
+| **[CANON]** | Stated on the Official Forsaken Wiki (`forsaken.wiki`) or shown in-game, outside an "outdated" banner. |
 | **[DEV]** | Stated directly by a Forsaken developer (Discord, X, interviews). Canon, but not always written up on the wiki yet. |
 | **[SECONDARY]** | Reported by a non-official but reputable documentation wiki (FORSAKEN Fandom wiki, TV Tropes). Usually correct; occasionally out of date. |
 | **[THEORY]** | Community interpretation. Not canon. Graded for evidence quality in `13-theories.md`. |
-| **[DISPUTED]** | Sources conflict, or the lore was retconned. |
+| **[DISPUTED]** | Sources conflict, or the lore was **retconned**. See [`14`](14-retcons-and-lore-currency.md). |
 
 ---
 
@@ -50,7 +50,20 @@ Forsaken has one of the largest headcanon/fanwork ecosystems on Roblox. A huge a
 **Then:**
 
 - **[`13-theories.md`](13-theories.md)** — Popular fan theories, each with its actual evidence laid out and rated.
+- **[`14-retcons-and-lore-currency.md`](14-retcons-and-lore-currency.md)** — **Read this if you argue about lore with anyone.** What has been retconned, which wiki pages are flagged outdated, which characters are being rewritten, and what this compendium originally got wrong.
 - **[`SOURCES.md`](SOURCES.md)** — Full source list, with notes on which sources are trustworthy and which are not.
+
+---
+
+## ⚠️ Old lore vs current lore
+
+Forsaken's lore has been **rewritten repeatedly**, and retconned material is still everywhere — including in sections of the official wiki, which flags them, and in lore videos made before the changes.
+
+The most commonly repeated dead claim: **"Azure wants to forgive Two Time but The Spectre won't let him."** That was retconned during Azure's development. Their relationship after death is now **up to interpretation**.
+
+Three characters are under **active rewrite** and should be treated as provisional: **007n7** (whose page the wiki flags as both outdated *and* sourced from a party it no longer considers reliable), **Two Time**, and **Noli**.
+
+Full breakdown in [`14-retcons-and-lore-currency.md`](14-retcons-and-lore-currency.md).
 
 ---
 

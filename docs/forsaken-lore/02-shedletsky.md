@@ -85,6 +85,11 @@ Two causes, both required:
 
 1x1x1x1 is not a demon that possessed him and not an enemy he made. **It is the hatred and hubris of Telamon, walking around on its own**, carved out of a self that had already shattered.
 
+> **[DISPUTED — superseded]** Two older versions of 1x1x1x1 are still in circulation and are **not** current:
+>
+> - **During development**, 1x1x1x1 was going to be built from the **grief** within Shedletsky, not the hatred. That was changed. **Hatred is the current version.**
+> - The **former Necrobloxicon description** called 1x1x1x1 "a being of pure hatred" and "an entity from the **fourth dimension** who loathes Robloxia for its 3D-ness." The wiki states this is **not accurate in the Forsaken timeline** and that **a different canon has been made instead.** The fourth-dimension framing comes from older Roblox mythology and does not apply here.
+
 The identity "Telamon" does not survive the process. What is left is **Shedletsky** — the man minus the arrogance, minus the ambition, and minus the part of him that did the unforgivable thing. Which sounds like redemption until you realise the removed part is still out there, and still angry, and still knows exactly whose fault it is.
 
 ---
@@ -139,7 +144,7 @@ He is not hiding it out of pride. He is hiding it because he is frightened of be
 |:--|:--|
 | **Dusekkar** | **Knows everything.** Refuses to leak it. Shedletsky's close partner. |
 | **Jane Doe** | **Suspects.** Her files say his cheer feels forced. She has worked out something is wrong and **also withholds it** from the others. |
-| **Noli** (Killer) | **[SECONDARY]** Believed to be the only Killer aware — and suspected to know only part of the truth. |
+| **Noli** (Killer) | **[SECONDARY / unstable]** Believed to be the only Killer aware, and suspected to know only part of the truth. **Treat with caution: the wiki states Noli's lore is currently being rewritten and that most of Noli's voicelines are planned to be replaced.** |
 | **The other Survivors** | Nothing. They trust him. |
 | **1x1x1x1** | Increasingly — see below. |
 
