@@ -13,7 +13,7 @@
 | **Based on** | **David Baszucki**, Roblox founder/CEO, and the **@builderman** account |
 | **Accent** | **[CANON]** Southern |
 | **Role in the world** | Leader of Roblox HQ; one of the first Robloxians |
-| **Core wound** | **He is the reason The Spectre was allowed to grow** — not, as the first draft said, the reason it exists. Its origin is explicitly unknown. |
+| **Core wound** | **The Spectre grew in his servers, on his watch, after he was told** |
 | **How he was Forsaken** | **[CANON]** "At an unknown point, he would be Forsaken by the Spectre" |
 
 ---

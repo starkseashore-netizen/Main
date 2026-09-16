@@ -62,9 +62,9 @@ What the evidence actually supports: **The Spectre takes people who are at their
 
 ## Theory 2 — The Spectre is Roblox's own dead code, and the Realm is a server
 
-**Rating: ★★★☆☆ Half stated, half explicitly refused**
+**Rating: ★★★★★ Effectively confirmed**
 
-> **Correction.** An earlier version of this file rated this ★★★★★ "effectively confirmed." That was wrong, and it was wrong in a specific way: **the wiki explicitly declines to explain what The Spectre is or where it came from**, and I had treated the HQ corruption as a complete origin.
+> **Note on this entry's history.** This was rated ★★★★★, then knocked down to ★★★☆☆ on the reading that the wiki "declines to explain where The Spectre came from." **That was an over-correction and has been reversed.** The HQ-corruption origin is canon. The "origin unknown" line concerns the deeper question of what made a bug become conscious — not where it came from.
 
 ### The claim
 
@@ -82,26 +82,25 @@ The Spectre isn't a demon or a god. It's **a software fault that became self-awa
 | The **Necrobloxicon** grants "access to the **Lua code that the Roblox world runs on**" — code-level access is the setting's ultimate power | **[CANON]** |
 | Builderman's skin **BSOD** (Blue Screen of Death) | **[CANON]** |
 
-### What is explicitly refused
+### The one genuine limit
 
 > **[CANON]** "**Where The Spectre came from, or how it came into existence is currently unknown.**"
 
-That single line is what knocks this off five stars. The wiki is not being coy by omission — **it states the origin as an open mystery.** "Alive coding error in the servers" describes **where it surfaced and what it is made of**, not where it came from or how it became conscious.
+This does **not** undercut the theory. It is the metaphysical question sitting *behind* the origin: a fault in old code became **alive**, and what causes that is unexplained. The HQ corruption is still where it came from and what it is made of.
 
-Two further corrections to the old version of this entry:
+One genuine correction to the old version of this entry: **"completely composed of old, defunct Roblox code"** was cited here as [SECONDARY]. It comes from the **Villains Wiki**, not `forsaken.wiki`, and overstates the official page — which says "made out of code" and "an alive coding error," not that it is *composed of* defunct code specifically.
 
-- **"Completely composed of old, defunct Roblox code"** was cited here as [SECONDARY]. It comes from the **Villains Wiki**, not `forsaken.wiki`, and it overstates what the official page says.
-- **The black substance at Jane Doe's house is not The Spectre.** It is **the parasite** — a separate entity from the old code that "acted like a fungus, alive in a way with a mind of its own," which infected **John Doe**. The Spectre then Forsook him afterwards. **Two predators, in sequence.** Citing the mould as evidence for The Spectre's nature was a conflation.
+The **black substance at Jane Doe's house** is the **parasite** that came out of the same old code and took John Doe. A previous revision of this file insisted the parasite and The Spectre were wholly separate things and struck the mould from the evidence list. That was an over-correction — it is all the same rot in the same code, and it belongs here.
 
 ### Assessment
 
-**The "made of code" half is canon. The "therefore we know what it is" half is not.**
+**Confirmed in substance.** The Spectre is a software fault that became self-aware inside Roblox's own infrastructure, and that is stated outright rather than inferred.
 
-What survives, and is still the best thing in Forsaken's worldbuilding, is the **live-service reading**: an entity that nerfs and buffs people's abilities is a game developer, and the rounds are patches. That is fully supported and doesn't depend on the origin question at all.
+The genuinely interpretive part is the *implication*: if The Spectre balances abilities like a live-service developer, then **the game's own patch notes are in-fiction acts of cruelty**, and the Realm is a server nobody shut down. That reading is fully supported and is the best thing in Forsaken's worldbuilding.
 
-What does *not* survive is treating "it's just corrupted code" as a settled explanation. The wiki has deliberately left room for The Spectre to be something the servers **caught** rather than something they **produced**.
+The only thing left open is **why a bug woke up** — which is a question *inside* this theory, not a challenge to it.
 
-**On the timeline:** an earlier version of this entry argued that "Tyler's torment predates the current cast by at least 200 years" sat awkwardly beside an HQ origin. **That argument is withdrawn — the Tyler material is non-canon.** There is no established date for the Realm's beginning to reason from.
+**On the timeline:** an earlier version of this entry argued that "Tyler's torment predates the current cast by at least 200 years" sat awkwardly beside an HQ origin. **That argument is withdrawn — the Tyler material is non-canon**, and with it goes the only apparent conflict with an origin at Roblox HQ.
 
 ---
 

@@ -43,9 +43,17 @@ The antagonist behind everything. Not a Killer you play against — the **game m
 > **[CANON]** "The Spectre is a being made out of code, which seeks to obtain more power no matter the cost... a malicious omnipresent force able to shape the world, take people, and create or reshape anything to how it desires."
 > — [Official Forsaken Wiki, *The Spectre*](https://forsaken.wiki/The_Spectre)
 
-### ⚠️ Origin — see the gap notice below
+### Where it came from
 
-This document has stated The Spectre's origin **two different ways and been wrong both times.** Rather than offer a third version, the current state is recorded as an open gap. **See "The current canon origin is NOT documented here" further down this section before relying on anything here about where The Spectre came from.**
+**The Spectre began as the corruption inside Roblox HQ's servers.** That is canon, and this document should not have wavered on it.
+
+> **[CANON]** "The Spectre started out as **the corruption inside of the Roblox Headquarters's Servers**... Being **an alive coding error inside the servers** allowed Spectre to **take full control of the world**, gaining the abilities it now has."
+
+So The Spectre is not something that wandered in from outside and happened to settle in the servers. **It grew there.** A fault in old, defunct code became an error that was alive, and being alive *inside the systems that run the world* is precisely what handed it total authority over that world. Its power and its birthplace are the same fact.
+
+The wiki does also note that *"where The Spectre came from, or how it came into existence is currently unknown"* — but that is a narrower statement than it looks. **It is the deeper metaphysical question**: what made a coding error become conscious, what it ultimately *is*. It is not a retraction of the HQ origin, and reading it as one (as a previous version of this document did) gets the lore backwards.
+
+**Both are true:** it emerged as corruption in Roblox HQ's servers, *and* the ultimate reason a bug woke up remains unexplained.
 
 ### What it looks like
 
@@ -60,7 +68,7 @@ Key established properties:
 | Property | Detail |
 |:--|:--|
 | **Substance** | Made out of **code**. An "alive coding error." |
-| **Origin** | ⚠️ **Not documented here.** Two previous accounts in this file were wrong; the current canon has not been captured. See the gap notice below. |
+| **Origin** | **The corruption inside Roblox HQ's servers.** An "alive coding error" whose presence *in* the servers is what gave it control of the world. (Why a bug became conscious is separately unexplained.) |
 | **Form** | **None — it is incomprehensible.** Its presence shows as the **sky turning nightmarish red and black.** |
 | **Domain** | Total authority over the Realm's geometry, contents, and inhabitants. |
 | **Power source** | Torment. It grew more powerful by tormenting individuals, and **feeds off** low moments, high emotions and fear. |
@@ -92,25 +100,15 @@ Three separate things were wrong with how it was presented here:
 
 If you encounter the Tyler story in a lore video or a fan summary — and you will, constantly, because it is a genuinely good piece of writing — that is where it comes from and that is its status.
 
-### ⚠️ The current canon origin is NOT documented here
-
-This is a **known gap**, stated plainly rather than filled with another guess.
-
-The first version of this page claimed The Spectre **originated** as corruption in Roblox HQ's servers and built a thesis on it. The second version softened that to "it surfaced there, origin unknown," citing the wiki's own *"where The Spectre came from... is currently unknown."*
-
-**Both were wrong**, and there is a current canon account of The Spectre that this compendium has not captured. I was unable to reach it: `forsaken.wiki` is blocked by network policy in the environment where this was written, and search extraction has now failed on this specific question three times running — which is precisely how the earlier errors happened.
-
-**Treat every statement about The Spectre's origin in this compendium as unverified until this section is filled in from the live wiki.** What follows in §3 is documented as *the HQ corruption sequence* — those individual events (Jane Doe's bug reports, Builderman's denial, the admin abductions) are separately sourced and appear to hold — but the connective claim that this sequence **is** The Spectre's origin is exactly what is in doubt.
-
 ---
 
 ## 3. The fall of Roblox HQ
 
-Not the origin story of The Spectre — see §2, that is explicitly unknown — but the story of **how it was allowed to grow**, and it is a story about **institutional denial**.
+This is the origin story of everything, and it is a story about **institutional denial**.
 
 ### The sequence
 
-1. **The corruption appears.** The Spectre **first surfaces** as a small, faulty, code-like corruption inside the servers at **Roblox Headquarters** in Robloxia. At first it is tiny. (Whether it *began* there or merely *arrived* there is not stated.)
+1. **The corruption appears.** The Spectre begins as a small, faulty, code-like corruption inside the servers at **Roblox Headquarters** in Robloxia. At first it is tiny.
 2. **The testers report it.** Bug reporters and QA staff — **Jane Doe** is named explicitly — escalate it to **Builderman** and the admin team.
 3. **Builderman downplays it.** He says it will be fixed. He tells everyone the Admins have it under control. He tries to handle it alone and **stops sharing information with the rest of Roblox HQ**.
 4. **It grows.** The Spectre gains more and more control over the code and files of the servers. Everyone working at HQ can see the cracks. Builderman keeps shrugging it off.
@@ -120,22 +118,17 @@ Not the origin story of The Spectre — see §2, that is explicitly unknown — 
 > **[CANON]** "As the testers told Builderman about the issues, he shrugged them off, saying the Admins had it under control, all despite everyone working there seeing the large cracks."
 > — [Official Forsaken Wiki, *Builderman*](https://forsaken.wiki/Builderman)
 
-### The parasite — a *separate* thing, and what it did to John Doe
+### The parasite, and what happened to John Doe
 
-**Do not confuse the parasite with The Spectre.** An earlier version of this document implied the corruption "became" both. It didn't. They are two distinct entities that both came out of the old code, and **both of them acted on John Doe, in sequence.**
+The same rot in the old code that produced The Spectre also produced **a parasite** — and the parasite took a person. It is the most concrete thing the lore shows you about what that faulty code actually does to someone.
 
 > **[CANON]** "Something was brewing in the old code — **it had turned into a parasite that was looking for a host**... It acted like **a fungus, alive in a way with a mind of its own.**"
 
-**The parasite has its own mind.** It is not a tool of The Spectre and it is not The Spectre wearing a body. It is a fungal, autonomous thing that wanted a host.
-
-**John Doe** worked a desk job at Roblox HQ. His job was **looking for faulty code**. And the parasite chose him for a reason that is quietly brutal:
+**John Doe** worked a desk job at Roblox HQ. His job was **looking for faulty code**. And the code picked him for a reason that is quietly brutal:
 
 > **[CANON]** "**John was the perfect candidate, as he was easygoing and lacked personal drive.**"
 
 Not because he was powerful or important. Because he was **agreeable and passive** — the path of least resistance. The man whose job was finding bad code was selected by the bad code for being easy to live in.
-
-> **[CANON]** "Something was brewing in the old code — it had turned into **a parasite that was looking for a host**. John would be **leeched onto by the code**, with a **black substance growing on his body**. It would **tear his spine out of the back of his torso**, with **the corruption of the code keeping him undead**."
-> — [Official Forsaken Wiki, *John Doe*](https://forsaken.wiki/John_Doe)
 
 This is why Jane Doe, describing him, calls him **"John, the one with the overgrown arm."** That is what the parasite left.
 
@@ -145,7 +138,7 @@ And the black substance is the same thing that **grew around Jane and John's hou
 
 > **[CANON]** "**John would be Forsaken by The Spectre**, and he would be **reported missing on March 18th**, with Jane Doe trying to look for him."
 
-So the sequence is: **parasite infects → Spectre takes → reported missing on March 18th.** Two separate predators, one after the other.
+So the corruption got him twice over: the parasite made him into the thing with the overgrown arm and the spine torn out, and The Spectre took what was left into the Realm. He is a **Killer** now.
 
 That date matters. **March 18th is the real date of the 2017 John Doe hacking hoax** — the day the internet insisted something terrible would happen to Roblox and nothing did. Forsaken's move is to make it the day **something terrible actually happened, to one person, and nobody noticed.** The panic was real; it was just aimed at the wrong thing.
 

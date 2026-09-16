@@ -55,13 +55,11 @@ Forsaken has one of the largest headcanon/fanwork ecosystems on Roblox. A huge a
 
 ---
 
-## ⛔ Known gap: The Spectre
+## ⛔ Removed as non-canon: the Tyler story
 
-**The Spectre's origin in these documents is not reliable.** Two different accounts have appeared here and both were wrong. The current canon has not been captured, and rather than guess a third time it is marked as an open gap in [`00-the-world-and-the-spectre.md`](00-the-world-and-the-spectre.md).
+The **Tyler** material — "the first victim," the prototype match against Jason/Slasher, growing numb, being stripped of form, naming The Spectre, and the "200 years" timeline — plus **David**, is **non-canon ARG content**. It was previously tagged canon here and anchored both the timeline and a theory. All withdrawn. See [`14-retcons-and-lore-currency.md`](14-retcons-and-lore-currency.md).
 
-Also removed as **non-canon**: the **Tyler** story — "the first victim," the prototype match against Jason/Slasher, the 200-year timeline, the naming of The Spectre — and **David**. That material is **non-canon ARG content**, was previously tagged canon here, and anchored both the timeline and a theory. All withdrawn.
-
----
+**The Spectre's origin at Roblox HQ is canon** and stands. An intermediate revision of these docs wrongly retracted it; that over-correction has been reversed.
 
 ## ⚠️ Old lore vs current lore
 
@@ -77,11 +75,11 @@ Full breakdown in [`14-retcons-and-lore-currency.md`](14-retcons-and-lore-curren
 
 ## The short version of the whole story
 
-Roblox HQ had a bug. A small corruption in old, defunct server code. The bug testers — Jane Doe among them — reported it. Builderman, who ran the place, said the admins had it under control. (These events are separately sourced and appear to hold; **whether this corruption is where The Spectre came from is exactly what is in doubt** — see below.)
+Roblox HQ had a bug. A small corruption in old, defunct server code. The bug testers — Jane Doe among them — reported it. Builderman, who ran the place, said the admins had it under control.
 
 They did not have it under control.
 
-⚠️ **What The Spectre is, and where it came from, is not established in these documents.** Two accounts have appeared here and both were wrong; see the gap notice above. What is documented is what it *does*: a bodiless, omnipresent entity with total authority over the world's underlying systems, which grows stronger by tormenting people — so it takes them.
+That corruption became **The Spectre**: an **alive coding error** that grew inside the servers until it had total control of the world's underlying systems. Being *in* the code is what gave it that power. It grows stronger by tormenting people — so it started taking them.
 
 It took the admins, one by one. It took whole locations out of Robloxia. Then, with the platform's moderators gone, Robloxia collapsed into the Roblox Army vs. Bacon Empire war, and The Spectre harvested that too.
 

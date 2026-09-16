@@ -56,15 +56,15 @@ Anything sourced to these is provisional by definition.
 
 ---
 
-## 3b. The Spectre — corrections made in the second pass
+## 3b. The Spectre — corrections, and corrections to the corrections
 
-The Spectre section was the worst part of the first draft, because everything else references it. Five separate problems:
+The Spectre section has been revised three times. Some of those revisions were themselves wrong; the table below records the **final** position on each point, with reversals marked.
 
-| What the draft said | What the wiki says |
+| Point | Final position |
 |:--|:--|
-| The Spectre **originated** as corruption in Roblox HQ's servers — presented as a complete origin, with "the apocalypse is Builderman's fault" as the thesis | **[CANON]** "**Where The Spectre came from, or how it came into existence is currently unknown.**" The servers are where it **surfaced**. Builderman's denial explains why it **grew**, not why it **exists**. |
-| The corruption "became" both The Spectre **and** a parasite | **They are separate.** The parasite "acted like **a fungus, alive in a way with a mind of its own**." It infected John Doe; **then** The Spectre Forsook him. Two predators, in sequence. |
-| The black mould at Jane Doe's house was evidence of The Spectre's nature (cited in Theory 2) | It is **the parasite**, following its host home. Not The Spectre. |
+| ~~The Spectre originated as corruption in Roblox HQ's servers~~ — *flagged here as an error* | ⚠️ **This "correction" was itself wrong and has been reversed.** The **HQ origin is canon**: "The Spectre started out as the corruption inside of the Roblox Headquarters's Servers... being an alive coding error inside the servers allowed Spectre to take full control of the world." The separate line about its origin being "unknown" refers to the deeper question of *what made a coding error become conscious* — not where it came from. |
+| ~~The corruption "became" both The Spectre and a parasite~~ — *flagged here as a conflation* | ⚠️ **Also an over-correction, reversed.** It is all the same rot in the same old code. The parasite came out of it, took John Doe, and The Spectre Forsook him afterwards. Splitting them into "two unrelated predators" overstated the distinction. |
+| ~~The black mould at Jane Doe's house was evidence of The Spectre's nature~~ | ⚠️ **Over-correction, reversed.** It is the parasite from the same corrupted code, and it remains legitimate evidence in Theory 2. |
 | Selection criterion: "**guilt and grief**," then a twelve-for-twelve table forcing every survivor into a guilt column | **[CANON]** "The Spectre takes people based on **low moments in life** and/or **high emotions and fears**, feeding off of them." **Fear qualifies. You need not have done anything wrong.** Dusekkar, taken asleep, breaks the pattern entirely. |
 | "First successful **Collapse of Robloxia**, extinction of the Robloxian race" — cited as [SECONDARY] | **Not found on `forsaken.wiki`.** Traces to the **Villains Wiki**. **Withdrawn.** The canon genocide is the Bacon Empire's massacre of the Guests. |
 
@@ -73,14 +73,12 @@ The Spectre section was the worst part of the first draft, because everything el
 - **[CANON]** The Spectre has **no physical appearance because it is incomprehensible** — its presence shows as **the sky turning a nightmarish red and black pattern**.
 - **[CANON]** Its epithet: **"the fiend which consumes all, creating a cycle of sorrow and grief."**
 - **[CANON]** It is an **"alive coding error"**, and that is what let it **take full control of the world**.
-- **[CANON]** The **ARG** run by the devs at launch is the main source of Spectre information.
+- The **ARG** run by the devs at launch shared a great deal about The Spectre — but ⚠️ **the Tyler and David material from it is non-canon.** Do not treat ARG content as lore on its own.
 - **[CANON]** **John Doe was reported missing on March 18th** — in-universe, the same date as the real 2017 hacking hoax. He was chosen by the parasite because he was **"easygoing and lacked personal drive."**
 
 ---
 
-## 3c. ⛔ The Tyler story is non-canon — and the Spectre's origin is still an open gap
-
-**Third correction pass, and the most damaging one.**
+## 3c. ⛔ The Tyler story is non-canon
 
 ### The Tyler material is not canon
 
@@ -95,21 +93,20 @@ Two compounding errors in the same passage:
 - **"Jason" isn't the character anyway.** Jason was **removed in update 3.1.0** and replaced by **Slasher**, an original redesign, over **copyright concerns** with *Friday the 13th*.
 - **The ARG is not a canon source.** `SOURCES.md` previously described it as "canon, but scattered." That framing is what let the Tyler material in.
 
-### The current canon origin of The Spectre is still missing
+### The origin: over-corrected, then restored
 
-Three versions of the origin have now appeared in this compendium:
+Three versions of The Spectre's origin appeared in these documents. The **first was right**, and I talked myself out of it twice:
 
-| Version | Claim | Status |
+| Version | Claim | Verdict |
 |:--|:--|:--|
-| 1st | The Spectre **originated** as corruption in Roblox HQ's servers; "the apocalypse is Builderman's fault" | **Wrong** |
-| 2nd | It **surfaced** there; origin "currently unknown" per the wiki | **Wrong** |
-| 3rd | — | **Not attempted.** |
+| 1st | The Spectre **originated** as corruption in Roblox HQ's servers | ✅ **Correct** — though the "so the apocalypse is Builderman's fault" thesis built on it was too strong |
+| 2nd | It merely **surfaced** there; origin "currently unknown" | ❌ Misread the "unknown" line |
+| 3rd | Origin **not documented**, marked as an open gap | ❌ Over-correction — deleted canon material |
+| **Now** | **HQ origin restored as canon**, with the narrower "why did a bug wake up" question noted as genuinely unexplained | ✅ |
 
-There is a current canon account of The Spectre that this compendium **has not captured**, and rather than guess a third time, the gap is now marked explicitly in [`00-the-world-and-the-spectre.md`](00-the-world-and-the-spectre.md).
+**The lesson is worth recording, because it is a distinct failure from the earlier ones.** The first passes were wrong from *overconfidence* — stating things more firmly than the sources supported. The third pass was wrong from *overcorrection* — treating a single ambiguous line as grounds to delete an entire well-sourced section. Both directions produce a wrong document. Being told "you got this wrong" is not evidence that everything adjacent is also wrong.
 
-**Why it keeps failing:** `forsaken.wiki` is blocked by network policy in this environment, so every Spectre claim here came from search extraction — which returns text with no indication of whether it sat under a non-canon or outdated banner. On this specific question that method has now produced a wrong answer three times running. It is not a method that can resolve this, and continuing to use it would just produce a fourth wrong answer.
-
-**This section will stay open until the current canon is supplied from the live wiki.**
+The same thing happened to the John Doe material: a real distinction (the parasite is a *thing*, not just a metaphor for The Spectre) got inflated into "two entirely separate predators, do not confuse them," which overstated it. Reversed.
 
 ---
 
