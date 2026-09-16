@@ -73,13 +73,19 @@ Roblox HQ had a bug. A small corruption in old, defunct server code. The bug tes
 
 They did not have it under control.
 
-The corruption grew into **The Spectre**: a bodiless, omnipresent entity made of dead Roblox code, with total authority over the world's underlying systems. It discovered that it could grow stronger by feeding on suffering. So it started taking people.
+That corruption is where **The Spectre** first shows up: a bodiless, omnipresent entity made of code, an **alive coding error** that took full control of the world's underlying systems. **Where it actually came from, and how it became conscious, the wiki says outright is unknown** — the servers are where it surfaced, not an explanation of what it is. It grows stronger by tormenting people. So it started taking them.
 
 It took the admins, one by one. It took whole locations out of Robloxia. Then, with the platform's moderators gone, Robloxia collapsed into the Roblox Army vs. Bacon Empire war, and The Spectre harvested that too.
 
 Now it runs a game. It drops Survivors into stolen pieces of Robloxia and sets a Killer loose on them. It tunes everyone's abilities like a game designer balancing a patch. And it has been doing this for at least two hundred years.
 
-It specifically collects people who are **already carrying guilt or grief**, because those feed it best. That is the actual thesis of Forsaken's survivor roster: every single one of these twelve people did something, or failed to do something, that they cannot forgive themselves for. The horror game is the punishment, and The Spectre is the one deciding the sentence is eternal.
+And it does not take at random:
+
+> **[CANON]** "The Spectre takes people based on **low moments in life** and/or **high emotions and fears**, **feeding off of them**."
+
+The wiki also calls it **"the fiend which consumes all, creating a cycle of sorrow and grief."**
+
+So the criterion is emotional intensity and vulnerability — a person at their lowest, or at their most frightened. Guilt is the form it most often takes across this particular roster, but **fear and raw feeling qualify just as well**, and it is worth not flattening the rule into "it collects the guilty." The horror game is the harvest, and The Spectre is the one deciding it never ends.
 
 ---
 

@@ -71,6 +71,19 @@ Her "one-sided disgust for the admins for the neglect they have dealt" is not a 
 
 > **[CANON]** "John Doe was corrupted by the code and went missing."
 
+The fuller current version, which the first draft of this dossier didn't have:
+
+> **[CANON]** John "was a upbeat talkative fellow who worked a desk job at Roblox HQ, **looking for faulty code**." Something brewing in that old code "had turned into **a parasite that was looking for a host**. **John was the perfect candidate, as he was easygoing and lacked personal drive.** It acted like **a fungus, alive in a way with a mind of its own**." It **tore his spine out of the back of his torso**, and the corruption keeps him **undead**.
+>
+> Then: "**John would be Forsaken by The Spectre**, and he would be **reported missing on March 18th**, with Jane Doe trying to look for him."
+> — [Official Forsaken Wiki, *John Doe*](https://forsaken.wiki/John_Doe)
+
+Three things this changes:
+
+1. **Two separate things happened to him.** A parasite with its own mind infected him; **then** The Spectre took him. They are not the same entity, and the first draft of this compendium wrongly treated them as one.
+2. **He was chosen for being agreeable.** "Easygoing and lacked personal drive" — an upbeat, talkative, unambitious man was selected because he'd be easy to occupy. The one description Jane gives of him, *"he'd never hurt a fly, the sweetest person you'd ever meet,"* is **the exact trait that made him a target.**
+3. **He went missing on March 18th** — in-universe, the same date as the real 2017 hacking hoax.
+
 Her husband was consumed by the exact defect she had filed a ticket about.
 
 Her own words about him, as a Lobby NPC:
@@ -237,7 +250,9 @@ What this says:
 >
 > A black substance started growing around her house.
 >
-> That was the part the internet found funny. Rumours went around that John Doe was going to hack Roblox on the eighteenth of March; YouTubers made videos; none of it was true. And somewhere in the noise people decided **she** was the reason he'd disappeared, and started calling her *mold girl*, because of the rot spreading through the house where she used to live with him.
+> He was reported missing on the eighteenth of March.
+>
+> That was the part the internet found funny. Rumours had been going around for weeks that John Doe was going to hack Roblox on that exact date; YouTubers made videos about it; the day came and the site was fine and everybody laughed and moved on. Nobody checked whether anything had happened to the man whose name they'd been using. Something had. And somewhere in the noise people decided **she** was the reason he'd disappeared, and started calling her *mold girl*, because of the rot spreading through the house where she used to live with him.
 >
 > She left the company with a broken heart, and then she did something nobody else in this story does.
 >

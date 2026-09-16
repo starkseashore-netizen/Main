@@ -43,14 +43,36 @@ The antagonist behind everything. Not a Killer you play against — the **game m
 > **[CANON]** "The Spectre is a being made out of code, which seeks to obtain more power no matter the cost... a malicious omnipresent force able to shape the world, take people, and create or reshape anything to how it desires."
 > — [Official Forsaken Wiki, *The Spectre*](https://forsaken.wiki/The_Spectre)
 
+### ⚠️ Its origin is explicitly unknown
+
+This is the single most important thing to get right about The Spectre, and the first version of this document got it wrong.
+
+> **[CANON]** "**Where The Spectre came from, or how it came into existence is currently unknown**, however, there has been countless information shared about it through **an ARG hosted by the Forsaken developers** when the game first released."
+
+So the two facts sit side by side and **do not** cancel each other:
+
+- **It first surfaced** as the corruption inside Roblox HQ's servers, as an **"alive coding error"** — that is *where it appeared*.
+- **What it fundamentally is, and how it became conscious, is a stated mystery** — the wiki declines to explain it.
+
+An earlier draft of this compendium treated the HQ corruption as a complete origin story and built a thesis on it ("the apocalypse is Builderman's fault"). That overreads the source. Builderman's denial is why it **grew unchecked**. It is not why it **exists**.
+
+### What it looks like
+
+> **[CANON]** "The Spectre is a being **without a physical appearance, due to it being incomprehensible** — however, its presence can be felt by **the sky turning a nightmarish red and black pattern**."
+
+It has no form because it *cannot* have one. The only way anyone knows it is paying attention is that **the sky changes colour.**
+
+The wiki also gives it an epithet worth keeping: **"the fiend which consumes all, creating a cycle of sorrow and grief."**
+
 Key established properties:
 
 | Property | Detail |
 |:--|:--|
-| **Substance** | Old, defunct Roblox code. It is a living software defect. |
-| **Form** | None. Bodiless, omnipresent. |
+| **Substance** | Made out of **code**. An "alive coding error." |
+| **Origin** | **Unknown.** First surfaced in Roblox HQ's servers; what it is and how it became conscious is unexplained. |
+| **Form** | **None — it is incomprehensible.** Its presence shows as the **sky turning nightmarish red and black.** |
 | **Domain** | Total authority over the Realm's geometry, contents, and inhabitants. |
-| **Power source** | Suffering — it grows stronger by tormenting people. |
+| **Power source** | Torment. It grew more powerful by tormenting individuals, and **feeds off** low moments, high emotions and fear. |
 | **Reach** | Can pull both **people and places** out of Robloxia. |
 | **Meta-power** | **It balances the game.** It manages and manipulates the abilities of Survivors and Killers, nerfing and buffing them at will. |
 
@@ -89,11 +111,11 @@ David exists in the lore for exactly one reason: to establish that The Spectre h
 
 ## 3. The fall of Roblox HQ
 
-This is the origin story of everything, and it is a story about **institutional denial**.
+Not the origin story of The Spectre — see §2, that is explicitly unknown — but the story of **how it was allowed to grow**, and it is a story about **institutional denial**.
 
 ### The sequence
 
-1. **The corruption appears.** The Spectre begins as a small, faulty, code-like corruption inside the servers at **Roblox Headquarters** in Robloxia. At first it is tiny.
+1. **The corruption appears.** The Spectre **first surfaces** as a small, faulty, code-like corruption inside the servers at **Roblox Headquarters** in Robloxia. At first it is tiny. (Whether it *began* there or merely *arrived* there is not stated.)
 2. **The testers report it.** Bug reporters and QA staff — **Jane Doe** is named explicitly — escalate it to **Builderman** and the admin team.
 3. **Builderman downplays it.** He says it will be fixed. He tells everyone the Admins have it under control. He tries to handle it alone and **stops sharing information with the rest of Roblox HQ**.
 4. **It grows.** The Spectre gains more and more control over the code and files of the servers. Everyone working at HQ can see the cracks. Builderman keeps shrugging it off.
@@ -103,18 +125,34 @@ This is the origin story of everything, and it is a story about **institutional 
 > **[CANON]** "As the testers told Builderman about the issues, he shrugged them off, saying the Admins had it under control, all despite everyone working there seeing the large cracks."
 > — [Official Forsaken Wiki, *Builderman*](https://forsaken.wiki/Builderman)
 
-### The parasite, and what happened to John Doe
+### The parasite — a *separate* thing, and what it did to John Doe
 
-The corruption did not only become The Spectre. It also became **a parasite**, and the parasite took a person — which is the single most concrete thing the lore shows you about what that faulty code actually does.
+**Do not confuse the parasite with The Spectre.** An earlier version of this document implied the corruption "became" both. It didn't. They are two distinct entities that both came out of the old code, and **both of them acted on John Doe, in sequence.**
 
-**John Doe** worked a desk job at Roblox HQ. His job was **looking for faulty code**.
+> **[CANON]** "Something was brewing in the old code — **it had turned into a parasite that was looking for a host**... It acted like **a fungus, alive in a way with a mind of its own.**"
+
+**The parasite has its own mind.** It is not a tool of The Spectre and it is not The Spectre wearing a body. It is a fungal, autonomous thing that wanted a host.
+
+**John Doe** worked a desk job at Roblox HQ. His job was **looking for faulty code**. And the parasite chose him for a reason that is quietly brutal:
+
+> **[CANON]** "**John was the perfect candidate, as he was easygoing and lacked personal drive.**"
+
+Not because he was powerful or important. Because he was **agreeable and passive** — the path of least resistance. The man whose job was finding bad code was selected by the bad code for being easy to live in.
 
 > **[CANON]** "Something was brewing in the old code — it had turned into **a parasite that was looking for a host**. John would be **leeched onto by the code**, with a **black substance growing on his body**. It would **tear his spine out of the back of his torso**, with **the corruption of the code keeping him undead**."
 > — [Official Forsaken Wiki, *John Doe*](https://forsaken.wiki/John_Doe)
 
 This is why Jane Doe, describing him, calls him **"John, the one with the overgrown arm."** That is what the parasite left.
 
-And the black substance is the same thing that **grew around Jane and John's house** — the growth that got her mocked as "mold girl." The corruption followed the host home.
+And the black substance is the same thing that **grew around Jane and John's house** — the growth that got her mocked as "mold girl." The parasite followed its host home.
+
+**Then The Spectre took him.**
+
+> **[CANON]** "**John would be Forsaken by The Spectre**, and he would be **reported missing on March 18th**, with Jane Doe trying to look for him."
+
+So the sequence is: **parasite infects → Spectre takes → reported missing on March 18th.** Two separate predators, one after the other.
+
+That date matters. **March 18th is the real date of the 2017 John Doe hacking hoax** — the day the internet insisted something terrible would happen to Roblox and nothing did. Forsaken's move is to make it the day **something terrible actually happened, to one person, and nobody noticed.** The panic was real; it was just aimed at the wrong thing.
 
 ### Roblox HQ today
 
@@ -148,11 +186,13 @@ Two connected catastrophes.
 
 **The Bacon Empire war.** Following the disappearance of the admins, the **Bacon Empire** — led by the **Bacon General** — declared war on Guests and anyone supporting them, escalating to an all-out attempt to seize control of all of Roblox by force. This is the war **Guest 1337** enlisted in after the genocide of his people, and it is drawn directly from **ObliviousHD's *The Last Guest*** machinima series.
 
-**The Collapse of Robloxia.** Secondary sources describe The Spectre as responsible for *"the first successful Collapse of Robloxia, a mass genocide that supposedly caused the extinction of the Robloxian race."*
+**The "Collapse of Robloxia."** ⚠️ **Treat this one as unsupported.**
 
-> **[SECONDARY]** The "Collapse / extinction of the Robloxian race" framing comes from the Villains Wiki entry on The Spectre rather than `forsaken.wiki`. It is consistent with the official material but is the strongest version of the claim. Flagged accordingly.
+A claim circulates that The Spectre is responsible for *"the first successful Collapse of Robloxia, a mass genocide that supposedly caused the extinction of the Robloxian race."* The first version of this document repeated it as **[SECONDARY]**.
 
-If accurate, it reframes the Realm entirely: it is not a prison carved out of a living world. It may be **most of what's left**.
+On re-checking, **I could not find it on `forsaken.wiki` at all.** It traces to the **Villains Wiki** entry on The Spectre — a general-purpose character-catalogue wiki that tends to state the strongest version of a claim. The official material says The Spectre is "constantly growing the cast" and takes both people and places; it does not, as far as I can find, describe an extinction event.
+
+The **genocide that *is* canon** is a different and much better-documented one: the **Bacon Empire's systematic massacre of the Guest population**, which is Guest 1337's backstory and comes from *The Last Guest*. Don't conflate the two.
 
 ---
 
@@ -192,28 +232,41 @@ It is a small, devastating detail. The man who broke the world is spending his e
 
 ## 6. How The Spectre chooses
 
-Not random. There is a selection criterion, and it is the thesis statement of the entire roster.
+Not random. There is a stated criterion — and it is **broader** than the version this document originally gave.
 
-> **[DEV / Word of God]** The Spectre focuses on gathering Killers and Survivors who possess **negative feelings — guilt and grief** — and personally favours those who are **extremely emotional**.
+> **[CANON]** "The Spectre takes people based on **low moments in life** and/or **high emotions and fears**, **feeding off of them**."
+> — [Official Forsaken Wiki, *The Spectre*](https://forsaken.wiki/The_Spectre)
 
-Run the roster against that filter:
+> **[CANON]** It is "**the fiend which consumes all, creating a cycle of sorrow and grief.**"
 
-| Survivor | The guilt or grief |
+An earlier version of this page cited a secondhand "guilt and grief" formulation and then ran the whole roster against it, concluding "twelve for twelve." **That was an overfit.** The actual criterion has three prongs, and only one of them is guilt-shaped:
+
+1. **Low moments in life** — someone at their worst.
+2. **High emotions** — intensity of any kind.
+3. **Fears** — which is not remorse at all.
+
+**Fear qualifies you.** So does simply feeling something very strongly at the wrong moment. You do not have to have done anything wrong.
+
+That matters for reading the roster honestly. Guilt genuinely is the dominant note across these twelve — but that is an **observation about who ended up here**, not the rule itself, and forcing every survivor into a "what they can't forgive themselves for" column distorts several of them. **Veeronica's** worst crime is graffiti. **Noob** did nothing wrong at all — they told a friend the truth. **Elliot** is guilty of overworking.
+
+What they reliably share is not culpability. It is **having been caught at a moment of extreme feeling**:
+
+| Survivor | The state The Spectre would have found them in |
 |:--|:--|
-| **Noob** | Believes they caused their best friend's disappearance |
-| **Shedletsky** | Created 1x1x1x1; hides it from everyone |
-| **Elliot** | Chronic self-sacrifice; family loss |
-| **007n7** | His past victims, and his lost son |
-| **Guest 1337** | Murdered parents, genocide of his people, his own death |
-| **Two Time** | Murdered the person who loved them |
-| **Taph** | Killed sentient NPCs while "helping" |
-| **Chance** | Burned every relationship he had; was murdered |
-| **Builderman** | Let The Spectre exist |
-| **Dusekkar** | Failed to save Shedletsky; keeps the secret |
-| **Jane Doe** | Lost her husband; blamed for it |
-| **Veeronica** | Vandalised instead of helping |
+| **Noob** | Grief and self-blame over a friendship they couldn't save |
+| **Shedletsky** | A shattered identity, mid-fight with his own hatred |
+| **Elliot** | A sudden violent accident |
+| **007n7** | Broken by a child's disappearance after a failed search |
+| **Guest 1337** | Dying, in the act of avenging his parents |
+| **Two Time** | Whatever followed murdering the person who loved them |
+| **Taph** | Paranoid, barricaded indoors, waiting to be caught |
+| **Chance** | Murdered by his only friend |
+| **Builderman** | Presiding over the collapse of everything he built |
+| **Dusekkar** | Asleep — the one clear exception to "high emotion" |
+| **Jane Doe** | Obsessive grief, walking in deliberately |
+| **Veeronica** | Regret she describes as being unable to go back from |
 
-Twelve for twelve. **Forsaken's survivors are not selected for being good people in a bad situation. They are selected for being haunted.** The Realm is not arbitrary — it is a collection of people specifically chosen because they were already punishing themselves, put somewhere the punishment never ends.
+**Dusekkar breaks the pattern** — taken unconscious, in bed, with his house. Any clean theory of the selection rule has to account for him, and none currently does.
 
 ### The big unanswered question
 

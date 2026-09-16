@@ -85,7 +85,7 @@ You cannot separate them. The same people who ruined her gave her the only joy s
 
 Set against the rest of the roster, Veeronica's sin is tiny. She didn't murder anyone, didn't cause a genocide, didn't create a monster. **She tagged walls when she could have been teaching people.** She wasted herself.
 
-And that qualified her. The Spectre takes people carrying guilt and grief, and it evidently doesn't check whether the guilt is proportionate.
+And that qualified her — which tells you how low the bar is. **[CANON]** The Spectre "takes people based on **low moments in life** and/or **high emotions and fears**, feeding off of them." Veeronica's regret is small, ordinary and entirely disproportionate to what happened to her. It didn't need to be more than that.
 
 ---
 

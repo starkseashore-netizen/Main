@@ -56,6 +56,28 @@ Anything sourced to these is provisional by definition.
 
 ---
 
+## 3b. The Spectre — corrections made in the second pass
+
+The Spectre section was the worst part of the first draft, because everything else references it. Five separate problems:
+
+| What the draft said | What the wiki says |
+|:--|:--|
+| The Spectre **originated** as corruption in Roblox HQ's servers — presented as a complete origin, with "the apocalypse is Builderman's fault" as the thesis | **[CANON]** "**Where The Spectre came from, or how it came into existence is currently unknown.**" The servers are where it **surfaced**. Builderman's denial explains why it **grew**, not why it **exists**. |
+| The corruption "became" both The Spectre **and** a parasite | **They are separate.** The parasite "acted like **a fungus, alive in a way with a mind of its own**." It infected John Doe; **then** The Spectre Forsook him. Two predators, in sequence. |
+| The black mould at Jane Doe's house was evidence of The Spectre's nature (cited in Theory 2) | It is **the parasite**, following its host home. Not The Spectre. |
+| Selection criterion: "**guilt and grief**," then a twelve-for-twelve table forcing every survivor into a guilt column | **[CANON]** "The Spectre takes people based on **low moments in life** and/or **high emotions and fears**, feeding off of them." **Fear qualifies. You need not have done anything wrong.** Dusekkar, taken asleep, breaks the pattern entirely. |
+| "First successful **Collapse of Robloxia**, extinction of the Robloxian race" — cited as [SECONDARY] | **Not found on `forsaken.wiki`.** Traces to the **Villains Wiki**. **Withdrawn.** The canon genocide is the Bacon Empire's massacre of the Guests. |
+
+**Also missing from the first draft, and now added:**
+
+- **[CANON]** The Spectre has **no physical appearance because it is incomprehensible** — its presence shows as **the sky turning a nightmarish red and black pattern**.
+- **[CANON]** Its epithet: **"the fiend which consumes all, creating a cycle of sorrow and grief."**
+- **[CANON]** It is an **"alive coding error"**, and that is what let it **take full control of the world**.
+- **[CANON]** The **ARG** run by the devs at launch is the main source of Spectre information.
+- **[CANON]** **John Doe was reported missing on March 18th** — in-universe, the same date as the real 2017 hacking hoax. He was chosen by the parasite because he was **"easygoing and lacked personal drive."**
+
+---
+
 ## 4. Current lore this compendium originally missed
 
 | Current lore | Where it now appears |

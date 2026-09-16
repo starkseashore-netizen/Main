@@ -103,7 +103,9 @@ The script injectors she used to save the friendship are **the same power she no
 
 **Unknown.** Noob is one of the many survivors whose abduction is undocumented.
 
-What we do know is that Noob fits the selection criterion perfectly — a person carrying unresolved guilt and grief over a lost friend — and that Noob's own character description calls the Realm their **"purgatory."**
+What we do know is that Noob fits the stated criterion — **[CANON]** The Spectre "takes people based on **low moments in life** and/or **high emotions and fears**" — and Noob, carrying unresolved grief and self-blame over a lost friend, is squarely a low moment. Noob's own character description calls the Realm their **"purgatory."**
+
+Worth stressing, since the first draft of this compendium blurred it: **the criterion is not guilt.** Noob did nothing wrong. They told a friend the truth about cheating. The Spectre does not appear to check whether the anguish is deserved.
 
 **[THEORY]** A circulating community claim states Noob was forsaken "during a dramatic incident with Guest 666." Plausible given that the falling-out is the only significant event in Noob's documented life, but **not sourced to the official wiki**.
 

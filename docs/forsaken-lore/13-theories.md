@@ -62,34 +62,46 @@ What the evidence actually supports: **The Spectre takes people who are at their
 
 ## Theory 2 — The Spectre is Roblox's own dead code, and the Realm is a server
 
-**Rating: ★★★★★ Effectively confirmed**
+**Rating: ★★★☆☆ Half stated, half explicitly refused**
+
+> **Correction.** An earlier version of this file rated this ★★★★★ "effectively confirmed." That was wrong, and it was wrong in a specific way: **the wiki explicitly declines to explain what The Spectre is or where it came from**, and I had treated the HQ corruption as a complete origin.
 
 ### The claim
 
 The Spectre isn't a demon or a god. It's **a software fault that became self-aware**, and the Realm is a corrupted corner of Roblox infrastructure.
 
-### The evidence
-
-This one is barely a theory — the official wiki states most of it outright:
+### What is actually stated
 
 | Evidence | Source |
 |:--|:--|
 | "The Spectre is **a being made out of code**" | **[CANON]** |
-| It "started out as **the corruption inside of the Roblox Headquarters's Servers**" | **[CANON]** |
+| It "**started out as the corruption inside of the Roblox Headquarters's Servers**" | **[CANON]** |
+| Being "**an alive coding error inside the servers**" is what let it take full control of the world | **[CANON]** |
 | It grew "as it got **more control of the code and files of the servers**" | **[CANON]** |
-| "Completely composed of **old, defunct Roblox code**" | **[SECONDARY]** |
 | It **manages and manipulates the abilities** of Survivors and Killers, **nerfing and buffing** them | **[CANON]** |
-| The **Necrobloxicon** grants "access to the **Lua code that the Roblox world runs on**" — establishing that code-level access is the setting's ultimate power | **[CANON]** |
+| The **Necrobloxicon** grants "access to the **Lua code that the Roblox world runs on**" — code-level access is the setting's ultimate power | **[CANON]** |
 | Builderman's skin **BSOD** (Blue Screen of Death) | **[CANON]** |
-| The corruption physically manifested as **a black substance growing around Jane Doe's house** | **[CANON]** |
+
+### What is explicitly refused
+
+> **[CANON]** "**Where The Spectre came from, or how it came into existence is currently unknown.**"
+
+That single line is what knocks this off five stars. The wiki is not being coy by omission — **it states the origin as an open mystery.** "Alive coding error in the servers" describes **where it surfaced and what it is made of**, not where it came from or how it became conscious.
+
+Two further corrections to the old version of this entry:
+
+- **"Completely composed of old, defunct Roblox code"** was cited here as [SECONDARY]. It comes from the **Villains Wiki**, not `forsaken.wiki`, and it overstates what the official page says.
+- **The black substance at Jane Doe's house is not The Spectre.** It is **the parasite** — a separate entity from the old code that "acted like a fungus, alive in a way with a mind of its own," which infected **John Doe**. The Spectre then Forsook him afterwards. **Two predators, in sequence.** Citing the mould as evidence for The Spectre's nature was a conflation.
 
 ### Assessment
 
-**Confirmed in substance.** The only genuinely interpretive part is the *implication*: if The Spectre balances abilities like a live-service developer, then **the game's own patch notes are in-fiction acts of cruelty**, and the Realm is a server that someone forgot to shut down.
+**The "made of code" half is canon. The "therefore we know what it is" half is not.**
 
-That reading is the single best thing in Forsaken's worldbuilding, and it is fully supported.
+What survives, and is still the best thing in Forsaken's worldbuilding, is the **live-service reading**: an entity that nerfs and buffs people's abilities is a game developer, and the rounds are patches. That is fully supported and doesn't depend on the origin question at all.
 
-**The remaining open question** is the timeline, not the nature. The Spectre originated in Roblox HQ's servers — but Tyler's torment predates the current cast by **at least 200 years**. Either The Spectre existed before HQ, or time in the Realm doesn't run at the same rate as outside. Neither has been addressed.
+What does *not* survive is treating "it's just corrupted code" as a settled explanation. The wiki has deliberately left room for The Spectre to be something the servers **caught** rather than something they **produced**.
+
+**On the timeline:** Tyler's torment predates the current cast by **at least 200 years**, which sits awkwardly beside an origin in Roblox HQ's servers. With the origin now explicitly unknown, this is less of a contradiction than it looked — if The Spectre predates HQ, the servers were where it **arrived**, not where it was born.
 
 ---
 
@@ -254,11 +266,11 @@ The Spectre didn't carve a prison out of a living world. **It ate the world**, a
 
 | Evidence | Source |
 |:--|:--|
-| The Spectre is "responsible for the **first successful Collapse of Robloxia, a mass genocide that supposedly caused the extinction of the Robloxian race**" | **[SECONDARY]** |
+| ~~The Spectre is "responsible for the first successful Collapse of Robloxia, a mass genocide that caused the extinction of the Robloxian race"~~ **Withdrawn.** On re-checking I could not find this on `forsaken.wiki` at all — it traces to the **Villains Wiki**. Do not cite it. | **[UNSUPPORTED]** |
 | It canonically **takes locations** out of Robloxia, not just people — the maps are stolen real places | **[CANON]** |
 | It took **the admins one by one**, removing the world's moderation entirely | **[CANON]** |
 | It is "**constantly growing the cast**, taking more and more people" | **[CANON]** |
-| It has "**total control over Robloxia as a whole**" | **[SECONDARY]** |
+| It has "**total control over Robloxia as a whole**" — the official page does support this, via "being an alive coding error inside the servers allowed Spectre to **take full control of the world**" | **[CANON]** |
 
 ### The evidence against
 
@@ -275,7 +287,9 @@ The Spectre didn't carve a prison out of a living world. **It ate the world**, a
 
 But **"still there" and "intact" are different things**, and the direction of travel is unambiguous: The Spectre is *constantly growing the cast*, it takes places as well as people, and it has already removed an entire layer of governance.
 
-The most defensible version: **Robloxia is not dead, but it is being consumed, and nobody left outside knows why.** The "extinction" framing is probably a later stage, or an overstatement — but the trend line supports it.
+The most defensible version: **Robloxia is not dead, but it is being consumed, and nobody left outside knows why.**
+
+The "extinction of the Robloxian race" framing should be dropped entirely — it is not on the official wiki and this file should not have carried it. What the official material *does* support is narrower and still bleak: The Spectre **took full control of the world**, is **constantly growing the cast**, and takes **places as well as people**. That is a world being eaten at an unspecified rate, not a world confirmed dead.
 
 ---
 
