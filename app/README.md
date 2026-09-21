@@ -50,6 +50,7 @@ Other commands:
 | `npm run serve` | Serve without syncing |
 | `npm run sync` | Re-sync `data/gears.json` only |
 | `npm run refresh` | Force a re-sync, then serve |
+| `npm run import` | Re-import the gear archive into `data/gears.json` |
 | `npm run bundle` | Build the self-contained files in `dist/` |
 
 Requires Node 18+. Nothing to install.
@@ -66,8 +67,17 @@ CDN URL of its thumbnail. 1,312 are purchasable, 1,005 are off sale.
 That archive is © Roblox under the Roblox Limited Use License, so check the
 terms before putting a public copy of this data online.
 
+`tools/import-archive.mjs` (`npm run import`) regenerates the dataset from that
+archive. It also tidies two things the catalog itself contains: names that are
+pure punctuation (12 gears are literally called `.` or `??`) become
+`Unnamed gear #<id>` so they stay findable instead of heading the A–Z list, and
+the 18 gears Roblox renders to a single blank placeholder image are marked as
+having no thumbnail. Shared artwork that is genuinely shared — the ROBLOX
+Tablet series, repeated trophies — is left alone.
+
 The app falls back to Roblox's `asset-thumbnail` endpoint for any gear whose
-record has no thumbnail URL, and to a category glyph if an image fails to load.
+record has no thumbnail URL, and to a category glyph if an image fails to load
+or is missing.
 
 `tools/fetch-gears.mjs` pulls the whole **Gear** category from Roblox's public
 catalog API (`catalog.roblox.com`) and writes `data/gears.json`. The browser
@@ -113,6 +123,7 @@ app/
   assets/app.js           filtering, sorting, rendering, settings
   data/gears.json         2,317 gears with prices + thumbnails (committed)
   data/gears.sample.js    tiny fallback when gears.json is missing
+  tools/import-archive.mjs      rebuilds data/gears.json from the archive
   tools/fetch-gears.mjs   live catalog sync (adds prices)
   tools/build-single-file.mjs   bundles everything into dist/
   server.mjs              static server + sync-on-first-run
