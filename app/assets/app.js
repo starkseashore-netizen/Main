@@ -6,6 +6,7 @@
 (() => {
   'use strict';
 
+  const CONFIG = Object.assign({ thumbnails: true }, window.__GEAR_CONFIG__);
   const PAGE_SIZE = 60;
   const SETTINGS_KEY = 'gearcatalog:settings:v1';
   const THUMB = (id) => `https://www.roblox.com/asset-thumbnail/image?assetId=${id}&width=420&height=420&format=png`;
@@ -111,12 +112,16 @@
   /* ---------------- data ---------------- */
 
   async function loadData() {
+    const inlined = window.__GEAR_DATA__;
+    if (inlined?.items?.length) {
+      return { items: inlined.items, source: inlined.source || 'roblox-catalog', fetchedAt: inlined.fetchedAt || null };
+    }
     try {
       const res = await fetch('data/gears.json', { cache: 'no-cache' });
       if (res.ok) {
         const body = await res.json();
         if (Array.isArray(body.items) && body.items.length) {
-          return { items: body.items, source: 'roblox-catalog', fetchedAt: body.fetchedAt || null };
+          return { items: body.items, source: body.source || 'roblox-catalog', fetchedAt: body.fetchedAt || null };
         }
       }
     } catch { /* not synced yet, or opened straight from the filesystem */ }
@@ -138,6 +143,8 @@
         created: raw.created || null
       };
       gear.category = categorize({ ...gear, category: raw.category });
+      // Some sources (the bundled catalog dump) carry no pricing at all.
+      gear.hasPricing = raw.price != null || raw.priceStatus != null || raw.onSale != null;
       gear.free = gear.price === 0;
       gear.onSale = raw.onSale != null ? Boolean(raw.onSale) : gear.price != null;
       gear.key = gear.id != null ? String(gear.id) : `n${index}`;
@@ -197,14 +204,16 @@
   const escapeHtml = (value) => String(value).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
   function priceMarkup(gear) {
+    if (!gear.hasPricing) return '';
     if (gear.free) return '<span class="card__price card__price--free">Free</span>';
     if (gear.price != null && gear.onSale) return `<span class="card__price">R$ ${gear.price.toLocaleString()}</span>`;
     return '<span class="card__price card__price--off">Off sale</span>';
   }
 
   function thumbMarkup(gear, glyphClass) {
-    const glyph = `<svg class="${glyphClass}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"${gear.id ? ' hidden' : ''}>${GLYPHS[gear.category] || GLYPHS.other}</svg>`;
-    const img = gear.id ? `<img src="${THUMB(gear.id)}" alt="" loading="lazy" decoding="async">` : '';
+    const showGlyph = !gear.id || !CONFIG.thumbnails;
+    const glyph = `<svg class="${glyphClass}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"${showGlyph ? '' : ' hidden'}>${GLYPHS[gear.category] || GLYPHS.other}</svg>`;
+    const img = gear.id && CONFIG.thumbnails ? `<img src="${THUMB(gear.id)}" alt="" loading="lazy" decoding="async">` : '';
     return img + glyph;
   }
 
@@ -277,7 +286,9 @@
     dom.sourcePill.hidden = false;
     dom.sourcePill.className = 'pill';
     const when = state.fetchedAt ? new Date(state.fetchedAt) : null;
-    dom.sourcePill.textContent = when ? `Synced ${when.toLocaleDateString()} ${when.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}` : 'Live catalog data';
+    dom.sourcePill.textContent = when
+      ? `Synced ${when.toLocaleDateString()} ${when.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}`
+      : 'Catalog dump — sync for live prices';
     dom.brandSub.textContent = `${state.all.length.toLocaleString()} gears`;
   }
 
@@ -286,7 +297,7 @@
   function openSheet(gear) {
     const facts = [
       ['Category', gear.category === 'power' ? 'Power-up' : capitalize(gear.category)],
-      ['Price', gear.free ? 'Free' : gear.price != null && gear.onSale ? `R$ ${gear.price.toLocaleString()}` : (gear.priceStatus || 'Off sale')],
+      gear.hasPricing ? ['Price', gear.free ? 'Free' : gear.price != null && gear.onSale ? `R$ ${gear.price.toLocaleString()}` : (gear.priceStatus || 'Off sale')] : null,
       ['Creator', gear.creator],
       gear.id ? ['Asset ID', String(gear.id)] : null,
       gear.favoriteCount ? ['Favourites', gear.favoriteCount.toLocaleString()] : null,
@@ -307,6 +318,19 @@
         ${gear.id ? 'View on Roblox' : 'Search on Roblox'}
       </a>`;
     dom.sheet.showModal();
+  }
+
+  /** Price sorting and availability filtering only make sense when prices are known. */
+  function applyPricingSupport() {
+    if (state.all.some((gear) => gear.hasPricing)) return;
+
+    dom.availability.closest('.field').hidden = true;
+    state.availability = 'all';
+    for (const option of [...dom.sort.options]) {
+      if (option.value.startsWith('price-') || option.value === 'favorites-desc') option.remove();
+    }
+    if (!dom.sort.querySelector(`option[value="${state.sort}"]`)) state.sort = 'name-asc';
+    dom.sort.value = state.sort;
   }
 
   const capitalize = (value) => value.charAt(0).toUpperCase() + value.slice(1);
@@ -440,6 +464,10 @@
     // A saved category filter is meaningless if this dataset has none of it.
     if (state.category !== 'all' && !state.all.some((g) => g.category === state.category)) state.category = 'all';
 
+    applyPricingSupport();
+    if (!CONFIG.thumbnails) document.body.classList.add('no-thumbs');
+    dom.search.placeholder = `Search ${state.all.length.toLocaleString()} gears…` +
+      (window.matchMedia?.('(hover: hover)').matches ? '  (press /)' : '');
     renderChips();
     renderSourcePill();
     applyFilters();

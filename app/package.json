@@ -4,11 +4,14 @@
   "private": true,
   "description": "Browse, search and sort the full Roblox gear catalog.",
   "type": "module",
-  "engines": { "node": ">=18" },
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "start": "node server.mjs",
     "serve": "node server.mjs --no-sync",
     "sync": "node tools/fetch-gears.mjs",
-    "refresh": "node server.mjs --refresh"
+    "refresh": "node server.mjs --refresh",
+    "bundle": "node tools/build-single-file.mjs"
   }
 }

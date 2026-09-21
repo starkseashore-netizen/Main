@@ -1,3 +1,3 @@
-# Synced catalog data — regenerate with `npm run sync`
-data/gears.json
+# Built single-file bundles — regenerate with `npm run bundle`
+dist/
 node_modules/

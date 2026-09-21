@@ -15,6 +15,20 @@ dependencies: plain HTML, CSS and JavaScript plus a ~150-line Node server.
 - Sort, filter, columns, layout and theme are **remembered** between visits.
 - Thumbnails load from Roblox; anything that fails to load falls back to a category glyph instead of a broken image.
 
+## On your phone
+
+The published catalog is a link you can open on any device:
+**https://claude.ai/artifact/7DfPtp82Afj5bd6GWhHAJJ** (private to your Claude
+account). That page bundles all 2,276 gears, but its host blocks external
+images, so gears show a category glyph and tap through to Roblox for the
+picture.
+
+For thumbnails on your phone, serve the app yourself — `npm run bundle`
+produces `dist/gear-catalog.html`, one self-contained file you can drop on any
+static host (GitHub Pages, Netlify, a folder on your own server). Or run
+`npm start` on a computer and open `http://<that computer's LAN IP>:4173` from
+your phone on the same Wi-Fi.
+
 ## Quick start
 
 ```bash
@@ -30,10 +44,23 @@ Other commands:
 | `npm run serve` | Serve without syncing |
 | `npm run sync` | Re-sync `data/gears.json` only |
 | `npm run refresh` | Force a re-sync, then serve |
+| `npm run bundle` | Build the self-contained files in `dist/` |
 
 Requires Node 18+. Nothing to install.
 
 ## Where the data comes from
+
+`data/gears.json` ships with **2,276 gears**, merged from two sources:
+
+- the official [Roblox/Catalog](https://github.com/Roblox/Catalog) repository,
+  which stores one `.rbxmx` file per gear named by its real asset ID (1,922 gears);
+- a community catalog dump, which supplies human-readable display names for
+  2,073 gears — the official files mostly carry internal names like
+  `DualDarkhearts`.
+
+Where both have a gear, the display name wins; official-only gears get their
+internal name split into words. Neither source carries prices, so the price
+sort and the availability filter stay hidden until you sync.
 
 `tools/fetch-gears.mjs` pulls the whole **Gear** category from Roblox's public
 catalog API (`catalog.roblox.com`) and writes `data/gears.json`. The browser
@@ -58,16 +85,17 @@ buckets.
 
 ### Offline sample
 
-`data/gears.sample.js` is a small hand-written shortlist of classic gears so the
-page renders before you sync. It carries no asset IDs — deliberately, so it can
-never show a wrong thumbnail for a gear — and the header flags it as sample
-data. A real sync replaces it entirely.
+`data/gears.sample.js` is a 31-gear fallback used only if `data/gears.json` is
+missing (for example when `index.html` is opened straight off the filesystem,
+where browsers block `fetch`). It carries no asset IDs, so it can never show a
+wrong thumbnail, and the header flags it as sample data.
 
 ## Opening without a server
 
-`index.html` works when opened straight from disk, but browsers block
-`fetch()` on `file://`, so it shows the offline sample only. Run `npm start`
-for the full catalog.
+`index.html` opened straight from disk falls back to the 31-gear sample,
+because browsers block `fetch()` on `file://`. Use `dist/gear-catalog.html`
+(from `npm run bundle`) instead — it has the data inlined, so it works from a
+file, a USB stick or any static host.
 
 ## Layout
 
@@ -76,8 +104,9 @@ app/
   index.html              markup
   assets/styles.css       theming, grid, responsive rules
   assets/app.js           filtering, sorting, rendering, settings
-  data/gears.sample.js    offline sample (committed)
-  data/gears.json         synced catalog (generated, gitignored)
-  tools/fetch-gears.mjs   catalog sync
+  data/gears.json         2,276 gears, names + asset IDs (committed)
+  data/gears.sample.js    tiny fallback when gears.json is missing
+  tools/fetch-gears.mjs   live catalog sync (adds prices)
+  tools/build-single-file.mjs   bundles everything into dist/
   server.mjs              static server + sync-on-first-run
 ```
