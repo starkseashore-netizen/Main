@@ -140,7 +140,8 @@
         priceStatus: raw.priceStatus || null,
         limited: Boolean(raw.limited),
         favoriteCount: raw.favoriteCount || 0,
-        created: raw.created || null
+        created: raw.created || null,
+        thumbnail: raw.thumbnail || null
       };
       gear.category = categorize({ ...gear, category: raw.category });
       // Some sources (the bundled catalog dump) carry no pricing at all.
@@ -211,9 +212,10 @@
   }
 
   function thumbMarkup(gear, glyphClass) {
-    const showGlyph = !gear.id || !CONFIG.thumbnails;
+    const showGlyph = !CONFIG.thumbnails || !(gear.thumbnail || gear.id);
     const glyph = `<svg class="${glyphClass}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"${showGlyph ? '' : ' hidden'}>${GLYPHS[gear.category] || GLYPHS.other}</svg>`;
-    const img = gear.id && CONFIG.thumbnails ? `<img src="${THUMB(gear.id)}" alt="" loading="lazy" decoding="async">` : '';
+    const src = gear.thumbnail || (gear.id ? THUMB(gear.id) : '');
+    const img = src && CONFIG.thumbnails ? `<img src="${src}" alt="" loading="lazy" decoding="async">` : '';
     return img + glyph;
   }
 

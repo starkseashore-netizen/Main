@@ -22,16 +22,21 @@ const [html, css, js, dataRaw] = await Promise.all([
   read('index.html'), read('assets/styles.css'), read('assets/app.js'), read('data/gears.json')
 ]);
 
+const parsed = JSON.parse(dataRaw);
+const count = parsed.items.length;
+
 // Inline data must not terminate the script element that carries it.
-const data = dataRaw.replace(/<\//g, '<\\/');
-const count = JSON.parse(dataRaw).items.length;
+const encode = (value) => JSON.stringify(value).replace(/<\//g, '<\\/');
+const withThumbs = encode(parsed);
+// A host that blocks external images can't use the thumbnail URLs; drop the weight.
+const withoutThumbs = encode({ ...parsed, items: parsed.items.map(({ thumbnail, ...rest }) => rest) });
 
 function bundle({ thumbnails, bodyOnly }) {
   let out = html
     .replace('<link rel="stylesheet" href="assets/styles.css">', `<style>\n${css}\n</style>`)
     .replace(
       '<script src="data/gears.sample.js"></script>',
-      `<script>window.__GEAR_CONFIG__ = ${JSON.stringify({ thumbnails })};\nwindow.__GEAR_DATA__ = ${data};</script>`
+      `<script>window.__GEAR_CONFIG__ = ${JSON.stringify({ thumbnails })};\nwindow.__GEAR_DATA__ = ${thumbnails ? withThumbs : withoutThumbs};</script>`
     )
     .replace('<script src="assets/app.js"></script>', `<script>\n${js}\n</script>`);
 

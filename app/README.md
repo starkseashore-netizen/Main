@@ -8,7 +8,7 @@ dependencies: plain HTML, CSS and JavaScript plus a ~150-line Node server.
 
 - **Search** across name, creator, category, description and asset ID (press `/` to focus).
 - **Sort** by name, price, favourites, category, or asset ID (newest/oldest).
-- **Filter** by category and by availability: all, purchasable, free, off sale, or limited.
+- **Filter** by category and by availability: all, purchasable, free, off sale, or limited. Controls that need data the current dataset lacks hide themselves rather than showing blanks.
 - **Per-row setting** — Auto (fits the screen) or a fixed 1–12 columns, plus a compact list view.
 - **Built for phone and desktop** — touch-sized controls, no horizontal scroll, a bottom sheet for details on mobile and a centred dialog on desktop.
 - **Light and dark themes**, following your system preference on first visit.
@@ -17,17 +17,23 @@ dependencies: plain HTML, CSS and JavaScript plus a ~150-line Node server.
 
 ## On your phone
 
-The published catalog is a link you can open on any device:
-**https://claude.ai/artifact/7DfPtp82Afj5bd6GWhHAJJ** (private to your Claude
-account). That page bundles all 2,276 gears, but its host blocks external
-images, so gears show a category glyph and tap through to Roblox for the
-picture.
+**With thumbnails — GitHub Pages.** In this repository: *Settings → Pages →
+Source: Deploy from a branch →* pick this branch, folder `/ (root)` → Save.
+After a minute the catalog is live at
+`https://starkseashore-netizen.github.io/Main/app/` — real gear images, on any
+device, permanently. The same files work on Netlify, Vercel or any static host,
+and `npm run bundle` produces `dist/gear-catalog.html` if you'd rather drop one
+self-contained file somewhere.
 
-For thumbnails on your phone, serve the app yourself — `npm run bundle`
-produces `dist/gear-catalog.html`, one self-contained file you can drop on any
-static host (GitHub Pages, Netlify, a folder on your own server). Or run
-`npm start` on a computer and open `http://<that computer's LAN IP>:4173` from
-your phone on the same Wi-Fi.
+**Without thumbnails — the published artifact.**
+https://claude.ai/artifact/7DfPtp82Afj5bd6GWhHAJJ (private to your Claude
+account) carries all 2,317 gears, prices and filters, but its host's content
+policy blocks images from other domains, so gears show a category glyph and tap
+through to Roblox for the picture. Nothing in the app can change that — it is
+the host's rule, not a setting.
+
+**On your own Wi-Fi.** Run `npm start` on a computer and open
+`http://<that computer's LAN IP>:4173` from your phone.
 
 ## Quick start
 
@@ -50,17 +56,18 @@ Requires Node 18+. Nothing to install.
 
 ## Where the data comes from
 
-`data/gears.json` ships with **2,276 gears**, merged from two sources:
+`data/gears.json` ships with **2,317 gears** taken from the catalog archive
+that Roblox publishes on the `gh-pages` branch of
+[Roblox/gear](https://github.com/Roblox/gear) — the data behind
+[roblox.github.io/gear](https://roblox.github.io/gear/). Each gear carries its
+name, description, creator, price, on-sale status, favourite count and the exact
+CDN URL of its thumbnail. 1,312 are purchasable, 1,005 are off sale.
 
-- the official [Roblox/Catalog](https://github.com/Roblox/Catalog) repository,
-  which stores one `.rbxmx` file per gear named by its real asset ID (1,922 gears);
-- a community catalog dump, which supplies human-readable display names for
-  2,073 gears — the official files mostly carry internal names like
-  `DualDarkhearts`.
+That archive is © Roblox under the Roblox Limited Use License, so check the
+terms before putting a public copy of this data online.
 
-Where both have a gear, the display name wins; official-only gears get their
-internal name split into words. Neither source carries prices, so the price
-sort and the availability filter stay hidden until you sync.
+The app falls back to Roblox's `asset-thumbnail` endpoint for any gear whose
+record has no thumbnail URL, and to a category glyph if an image fails to load.
 
 `tools/fetch-gears.mjs` pulls the whole **Gear** category from Roblox's public
 catalog API (`catalog.roblox.com`) and writes `data/gears.json`. The browser
@@ -104,7 +111,7 @@ app/
   index.html              markup
   assets/styles.css       theming, grid, responsive rules
   assets/app.js           filtering, sorting, rendering, settings
-  data/gears.json         2,276 gears, names + asset IDs (committed)
+  data/gears.json         2,317 gears with prices + thumbnails (committed)
   data/gears.sample.js    tiny fallback when gears.json is missing
   tools/fetch-gears.mjs   live catalog sync (adds prices)
   tools/build-single-file.mjs   bundles everything into dist/
