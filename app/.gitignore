@@ -1,0 +1,3 @@
+# Synced catalog data — regenerate with `npm run sync`
+data/gears.json
+node_modules/

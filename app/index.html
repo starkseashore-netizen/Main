@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark light">
+<title>Roblox Gear Catalog</title>
+<meta name="description" content="Browse, search and sort the full Roblox gear catalog.">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='6' fill='%235b8cff'/%3E%3Cpath d='M7 15l6-8 2 2-4 8z' fill='white'/%3E%3C/svg%3E">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar__inner">
+    <div class="brand">
+      <div class="brand__mark" aria-hidden="true">
+        <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M14.5 3.5 20.5 9.5 9 21H3v-6z"/><path d="M12 6 18 12"/>
+        </svg>
+      </div>
+      <div class="brand__text">
+        <span class="brand__title">Gear Catalog</span>
+        <span class="brand__sub" id="brandSub">Loading…</span>
+      </div>
+    </div>
+
+    <div class="search" id="searchWrap">
+      <svg class="search__icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>
+      </svg>
+      <input id="search" type="search" placeholder="Search gears…  (press /)" autocomplete="off" spellcheck="false" aria-label="Search gears">
+      <button class="search__clear" id="searchClear" aria-label="Clear search">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+    </div>
+
+    <button class="icon-btn" id="themeToggle" aria-label="Toggle colour theme" title="Toggle theme"></button>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="chips" id="categoryChips" role="group" aria-label="Filter by category"></div>
+
+  <div class="toolbar">
+    <div class="field">
+      <label for="sort">Sort</label>
+      <select id="sort">
+        <option value="name-asc">Name A → Z</option>
+        <option value="name-desc">Name Z → A</option>
+        <option value="price-asc">Price: low → high</option>
+        <option value="price-desc">Price: high → low</option>
+        <option value="favorites-desc">Most favourited</option>
+        <option value="category-asc">Category</option>
+        <option value="id-desc">Newest (asset id)</option>
+        <option value="id-asc">Oldest (asset id)</option>
+      </select>
+    </div>
+
+    <div class="field">
+      <label for="availability">Show</label>
+      <select id="availability">
+        <option value="all">All gears</option>
+        <option value="onsale">Purchasable only</option>
+        <option value="free">Free only</option>
+        <option value="offsale">Off sale only</option>
+        <option value="limited">Limited only</option>
+      </select>
+    </div>
+
+    <div class="field field--keep">
+      <label for="columns">Per row</label>
+      <select id="columns">
+        <option value="auto">Auto</option>
+        <option value="1">1</option><option value="2">2</option><option value="3">3</option>
+        <option value="4">4</option><option value="5">5</option><option value="6">6</option>
+        <option value="7">7</option><option value="8">8</option><option value="9">9</option>
+        <option value="10">10</option><option value="12">12</option>
+      </select>
+    </div>
+
+    <div class="spacer"></div>
+
+    <div class="segmented" role="group" aria-label="View mode">
+      <button id="viewGrid" aria-pressed="true" aria-label="Grid view" title="Grid view">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>
+      </button>
+      <button id="viewList" aria-pressed="false" aria-label="List view" title="List view">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="statusline">
+  <span id="resultCount">—</span>
+  <span class="pill" id="sourcePill" hidden></span>
+  <button class="link-btn" id="resetFilters" hidden>Reset filters</button>
+</div>
+
+<main>
+  <div class="grid" id="grid" aria-live="polite"></div>
+  <div class="more" id="more" hidden></div>
+  <div class="sentinel" id="sentinel"></div>
+  <div class="empty" id="empty" hidden>
+    <h2>No gears match that</h2>
+    <p>Try a different search, or clear the category filter.</p>
+  </div>
+</main>
+
+<dialog class="sheet" id="sheet" aria-label="Gear details">
+  <div class="sheet__panel" id="sheetPanel"></div>
+</dialog>
+
+<script src="data/gears.sample.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
